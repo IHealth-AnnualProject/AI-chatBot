@@ -1,40 +1,41 @@
-# Chatbot in Python (using NLTK)
+# ChatBot using Chatterbot
 
-# Outline
-* [Motivation](#motivation)
-* [Blogpost](#blogpost)
-* [Pre-requisites](#pre-requisites)
-* [How to run](#how-to-run)
+## SetUp
 
-
-## Motivation
-The idea of this project is to create a Chatbot prototype that we can integrate to our BitsBi mental health management application.
-
-
-## Pre-requisites
-**NLTK(Natural Language Toolkit)**
-
-[Natural Language Processing with Python](http://www.nltk.org/book/) provides a practical introduction to programming for language processing.
-
-For platform-specific instructions, read [here](https://www.nltk.org/install.html)
-
-### Installation of NLTK
 ```
-pip install nltk
-```
-### Installing required packages
-After NLTK has been downloaded, install required packages
-```
-import nltk
-from nltk.stem import WordNetLemmatizer
-nltk.download('popular', quiet=True) # for downloading popular packages
-nltk.download('punkt') 
-nltk.download('wordnet') 
+virtualenv -p python3 venv
+source venv/bin/activate
+pip3 list
+pip3 install -r requirements.txt
 ```
 
-## How to run
+> Using Python 3.5+
 
-* Through Terminal
+## Training
+
 ```
-python chatbot.py
+python3 train.py
 ```
+
+### Notes
+
+* You can train this on custom data as well, just pass the folder location in `ChatBot.train(datafolder="./custom", train_corpus=True)` in `train.py`
+
+* Since we are using `trainer='chatterbot.trainers.ChatterBotCorpusTrainer'` check `ChatBot.py`, you need to pass your custom data in the given format. Check `custom/basic.yml` for info
+
+## Running
+
+```
+python3 run.py
+```
+
+### Notes
+* You can turn of logging if you want by commenting `logging.basicConfig(level=logging.INFO)` in `ChatBot.py`
+
+* Threshold is set in `ChatBot.py` at `'threshold': 0.65,`, you can change it.
+
+* In case of response is not found the bot will reply `'default_response': 'I am sorry, but I do not understand.'` set in `ChatBot.py`
+
+* Can create a help response as well in `ChatBot.py`
+
+* The reply is chosen randomly if multiple responsies available: `response_selection_method=get_random_response,` in `ChatBot.py`
