@@ -10,5 +10,5 @@ while True:
  
     response = ChatBot.botreply(message)
     # print ('\x1b[1;36;46m' + 'You (Input):' + '\x1b[0m' + '\t', message)
-    # print ('\x1b[1;33;43m' + 'Jadoo:' + '\x1b[0m' + '\t\t', response)
+    # print ('\x1b[1;33;43m' + 'Chatbot:' + '\x1b[0m' + '\t\t', response)
     print ("\n\n")

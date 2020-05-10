@@ -1,2 +1,8 @@
 # Environments
 chatbot-env/
+
+.ionide/
+
+__pycache__/
+
+db.sqlite3

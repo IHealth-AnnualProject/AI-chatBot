@@ -55,7 +55,7 @@ def botreply (messagein, db_location = "db.sqlite3"):
             {
                 'import_path': 'chatterbot.logic.SpecificResponseAdapter',
                 'input_text': 'Help me!',
-                'output_text': 'mail your quey here: singhsidhukuldeep@gmail.com'
+                'output_text': 'mail your quey here: eboucher7@gmail.com'
             },
             {
                 'import_path': 'chatterbot.logic.LowConfidenceAdapter',
