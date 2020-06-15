@@ -1,0 +1,118 @@
+[
+  {
+    "id": "85402261-ff62-4992-900f-d21a0c1dc391",
+    "data": [
+      {
+        "text": "Peux-tu m\u0027aider à comprendre ce qui m\u0027arrive ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca6f62ba-ef95-4e6f-b8fe-ac23d73ba4ae",
+    "data": [
+      {
+        "text": "Pourriez-vous m\u0027aider à comprendre ce qui m\u0027arrive ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fabefe1b-46fa-4803-b10f-8b21621a7bc6",
+    "data": [
+      {
+        "text": "Peux-tu me donner ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " conseil ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7db5fca-511a-4e73-85dd-2b1c061c1960",
+    "data": [
+      {
+        "text": "Pourriez-vous me donner ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " conseil ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2831259-a5c5-4df8-9572-92d226c5b69e",
+    "data": [
+      {
+        "text": "Peux-tu me donner des conseils ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90cee3d3-24f6-4f23-8f1b-ceb7aff8a2a9",
+    "data": [
+      {
+        "text": "Pourriez-vous me donner des conseils ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "407e6714-94e3-468b-8c49-f45037b87f79",
+    "data": [
+      {
+        "text": "Pourriez-vous m\u0027aider ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98cc83bb-a7ba-4dca-aa7a-ab8917ad34ab",
+    "data": [
+      {
+        "text": "Peut-tu m\u0027aider ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

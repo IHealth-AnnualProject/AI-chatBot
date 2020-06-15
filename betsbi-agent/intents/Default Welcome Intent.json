@@ -12,6 +12,17 @@
       "messages": [
         {
           "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Salut !",
+            "Bonjour !",
+            "Salutations !",
+            "Bienvenue !"
+          ]
+        },
+        {
+          "type": 0,
           "lang": "en",
           "condition": "",
           "speech": [

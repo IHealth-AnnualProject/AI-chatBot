@@ -1,0 +1,50 @@
+{
+  "id": "89a18fae-7f32-4563-926b-c8b7c80f3c65",
+  "name": "Seek advice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2c30a5e-6ae9-467a-9a67-e479fd334c0f",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": [
+            "Bien sûr, je suis là pour ça. Je ferai de mon mieux pour vous aider. Dites-moi ce qui se passe.",
+            "Telle est ma mission, je ferai de mon mieux pour vous aider. Dites-moi ce qui se passe.",
+            "Telle est ma mission, je ferai de mon mieux pour aider. Racontez-moi un peu ce qui se passe.",
+            "Je ferai de mon mieux pour apporter un conseil qui puisse vous être utile. Dites-moi ce qui se passe.",
+            "Tout d\u0027abord, merci de votre confiance. Je ferai de mon mieux pour vous aider. Racontez-moi ce qui se passe."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

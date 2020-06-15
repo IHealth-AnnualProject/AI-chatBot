@@ -1,0 +1,37 @@
+Je ressens du découragement, de la tristesse ou du chagrin
+J'ai du mal à dormir
+Je dors trop
+Je manque d'énergie et de fatigue
+J'ai une perte d'appétit
+Je mange trop
+J'ai des maux et des douleurs inexpliqués
+J'éprouve une perte d'intérêt pour des activités auparavant agréables
+J'ai une manque de concentration, de problèmes de mémoire et une incapacité à prendre des décisions
+J'ai des sentiments de dévalorisation ou de désespoir
+Je m'inquiète constamment et je me sens anxieux
+J'ai des pensées de mort, d'automutilation ou de suicide
+
+Fonctionne :
+
+
+
+Erreur :
+
+
+
+EXPORT :
+
+
+[...]
+
+Lien webhook DialogFlow --> Webservice : 
+Lien localhost : Ngrok affichage des requêtes get/post / res :
+Lien webapps espace client :
+
+Data Robot : Machine Learning visuel :
+Data IQ : 
+Interfacer avec des IHM
+Automatiser le réapprentissage pour le machine learning.
+
+
+
