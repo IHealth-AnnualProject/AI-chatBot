@@ -1,0 +1,35 @@
+Je ressens une profonde tristesse ou un désespoir
+J'ai une faible estime de soi ou un sentiment d'insuffisance
+Je manque d'intérêt pour les choses que j'ai appréciées
+J'ai des changements d'appétit
+J'ai des changements dans les habitudes de sommeil ou une faible énergie
+J'ai des problèmes de concentration et de mémoire
+J'ai du mal à fonctionner à l'école
+J'ai du mal à fonctionner au travail
+J'ai une incapacité à ressentir de la joie, même lors d'occasions heureuses
+Je ressens un retrait social
+
+Fonctionne :
+
+
+
+Erreur :
+
+
+
+EXPORT :
+
+
+[...]
+
+Lien webhook DialogFlow --> Webservice : 
+Lien localhost : Ngrok affichage des requêtes get/post / res :
+Lien webapps espace client :
+
+Data Robot : Machine Learning visuel :
+Data IQ : 
+Interfacer avec des IHM
+Automatiser le réapprentissage pour le machine learning.
+
+
+

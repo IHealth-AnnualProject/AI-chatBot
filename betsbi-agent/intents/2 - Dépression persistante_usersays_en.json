@@ -1,0 +1,198 @@
+[
+  {
+    "id": "84dac060-5379-4bcc-96d4-e1d136b2b149",
+    "data": [
+      {
+        "text": "Je ressens ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " retrait social",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7108f443-b947-4a90-8ebc-5eef685345ba",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " incapacité à ressentir de la joie, même lors d\u0027occasions heureuses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf678229-4fa4-4a56-a1cd-e3be0b5511c1",
+    "data": [
+      {
+        "text": "J\u0027ai du mal à fonctionner au travail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9833d6de-0c49-40ae-93af-2cded7925ca3",
+    "data": [
+      {
+        "text": "J\u0027ai du mal à fonctionner à l\u0027école",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74b3b8db-e883-44d1-95ee-1e2b1ae9a9bc",
+    "data": [
+      {
+        "text": "J\u0027ai des problèmes de concentration et de mémoire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9205cb0d-b4c5-491c-99d8-a63e667e57ff",
+    "data": [
+      {
+        "text": "J\u0027ai des changements dans les habitudes de sommeil ou ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " faible énergie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8687e945-ef1f-49c8-9a72-5fd35f219762",
+    "data": [
+      {
+        "text": "J\u0027ai des changements d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "appétit",
+        "alias": "eating-disorder",
+        "meta": "@Eating-disorder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e95ff1fd-f0b5-49b6-af7e-0372f9af4c3e",
+    "data": [
+      {
+        "text": "Je manque d\u0027intérêt pour les choses que j\u0027ai appréciées",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c5ea9c4-476d-4bca-ac98-af0e355d9dfe",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " faible estime de soi ou ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " sentiment d\u0027insuffisance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da2f79bc-ee41-47a0-9b08-b105641508e0",
+    "data": [
+      {
+        "text": "Je ressens ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " profonde tristesse ou ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " désespoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

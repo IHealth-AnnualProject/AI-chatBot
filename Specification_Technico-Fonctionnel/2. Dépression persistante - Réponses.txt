@@ -1,0 +1,30 @@
+**** Pris de  *************************************
+
+
+
+
+##########################################################################################################################################################################################################################
+Fonctionne :
+
+
+
+Erreur :
+
+
+
+EXPORT :
+
+
+[...]
+
+Lien webhook DialogFlow --> Webservice : 
+Lien localhost : Ngrok affichage des requêtes get/post / res :
+Lien webapps espace client :
+
+Data Robot : Machine Learning visuel :
+Data IQ : 
+Interfacer avec des IHM
+Automatiser le réapprentissage pour le machine learning.
+
+
+

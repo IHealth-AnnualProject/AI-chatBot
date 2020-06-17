@@ -1,0 +1,170 @@
+[
+  {
+    "id": "745715d8-a74e-4c01-adfe-72a75e7f9454",
+    "data": [
+      {
+        "text": "J\u0027ai une distraction accrue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b4117eb-c565-4467-8046-3a08ce953bc1",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " comportement imprudent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fc7ade0-b88a-4106-accf-1da1be0367e8",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " discours pressé et rapide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2115ba56-1c2a-451c-b1d5-8b04629734d6",
+    "data": [
+      {
+        "text": "J\u0027ai moins besoin de dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ecf5a9f-2eed-4b43-bc47-51117c6c4308",
+    "data": [
+      {
+        "text": "J\u0027ai des pensées de course ou ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " fuite d\u0027idées",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b773f3d5-3bcc-4720-b29a-02aecd95892f",
+    "data": [
+      {
+        "text": "Je prévois des idées et des projets trop nouveaux sans tenir compte des risques",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41cca30f-ad92-457f-acfb-e4b31345cf18",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " activité ciblée accrue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0481627-72b5-4365-b55d-bbc44fbf10cc",
+    "data": [
+      {
+        "text": "J\u0027ai des illusions de grandeur",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1ebb1b9-f6c5-46d8-901d-13ef5a874fb4",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ego et ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " estime de soi gonflés",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
