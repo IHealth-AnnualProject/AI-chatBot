@@ -1,6 +1,6 @@
 {
   "id": "d09a2592-7d66-4aee-bc67-586e88e2e89e",
-  "name": "2 - Dépression persistante",
+  "name": "2. Dépression persistante",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "8a503cd9-340f-4496-bb6a-09f04774218d",
+          "id": "b3e915fb-a409-486c-898f-b423af005ff8",
           "required": false,
           "dataType": "@sys.number",
           "name": "number",
@@ -18,26 +18,14 @@
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
-          "isList": false
+          "isList": true
         },
         {
-          "id": "bfc1d5f5-9a2b-40a3-9ad5-91e1e1f4059c",
+          "id": "09f67077-56ce-410e-ab5a-c2f90be46ac4",
           "required": false,
-          "dataType": "@sys.number",
-          "name": "number1",
-          "value": "$number1",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        },
-        {
-          "id": "54e3136c-a2c2-4d0e-82bb-bea58f7e78c8",
-          "required": false,
-          "dataType": "@Eating-disorder",
-          "name": "eating-disorder",
-          "value": "$eating-disorder",
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],

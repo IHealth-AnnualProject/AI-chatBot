@@ -1,0 +1,122 @@
+[
+  {
+    "id": "119292ed-6fae-41e7-850f-13f71078be23",
+    "data": [
+      {
+        "text": "montre-moi la suite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bebd3f54-f3a0-4aed-8f60-b319121ba406",
+    "data": [
+      {
+        "text": "lis-moi les résultats suivants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "915ffcd6-d430-4b55-a844-e945592070a3",
+    "data": [
+      {
+        "text": "page suivante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf689f89-6999-4323-932d-1242c906c4d3",
+    "data": [
+      {
+        "text": "continue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "580591f0-1162-4990-a61b-3f54132f66d2",
+    "data": [
+      {
+        "text": "va à la page suivante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51a2ec2c-fcb3-47d9-a1ea-c3d7170891bf",
+    "data": [
+      {
+        "text": "montre-moi les résultats suivants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4632e95b-ebfb-4bf3-aa48-e79debe4fe89",
+    "data": [
+      {
+        "text": "montre-moi la page suivante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c512be19-0026-4787-8077-137630abdb3c",
+    "data": [
+      {
+        "text": "résultat suivant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efeaf823-6d3b-4855-a9c1-a6f324d41208",
+    "data": [
+      {
+        "text": "passe au suivant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3cc5dfce-b260-42f4-a3c8-e46755806773",
+    "data": [
+      {
+        "text": "suivant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

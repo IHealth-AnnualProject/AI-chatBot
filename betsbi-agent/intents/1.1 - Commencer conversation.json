@@ -1,0 +1,62 @@
+{
+  "id": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "1.1 - Commencer conversation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "11-Commencerconversation-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "92a1cd5b-f9a6-4634-ac98-ecba749f7a41",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "6ab9bdc4-e29b-43c1-8fbb-5cd4d80cc40e",
+          "required": false,
+          "dataType": "@sys.language",
+          "name": "language",
+          "value": "$language",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésitez pas à contacter un psychologue si vous cherchez l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de vous aider le mieux possible. Maintenant dis-moi, comment vas-tu ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

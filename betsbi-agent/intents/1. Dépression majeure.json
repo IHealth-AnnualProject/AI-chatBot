@@ -1,6 +1,6 @@
 {
   "id": "ee939b0f-077d-49df-a8e7-79f2d00a8cd9",
-  "name": "1 - Dépression majeure",
+  "name": "1. Dépression majeure",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "214a5d03-049b-46ac-bbc8-7ccc09d49e24",
+          "id": "da4338e6-85b1-4799-a23c-2a81533e5215",
           "required": false,
           "dataType": "@sys.location",
           "name": "location",
@@ -21,7 +21,7 @@
           "isList": false
         },
         {
-          "id": "90856d63-cf4b-409a-9457-81eea9c04205",
+          "id": "102b8563-b9c3-4ec4-9b39-34a7e2da062e",
           "required": false,
           "dataType": "@sys.number",
           "name": "number",
@@ -33,7 +33,7 @@
           "isList": true
         },
         {
-          "id": "853ddaa7-7960-4d75-91bc-593801e469e2",
+          "id": "12e0f3d7-12aa-4202-b128-49625eeeecec",
           "required": false,
           "dataType": "@sys.geo-city",
           "name": "geo-city",

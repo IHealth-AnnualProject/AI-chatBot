@@ -1,28 +1,6 @@
 [
   {
-    "id": "84dac060-5379-4bcc-96d4-e1d136b2b149",
-    "data": [
-      {
-        "text": "Je ressens ",
-        "userDefined": false
-      },
-      {
-        "text": "un",
-        "alias": "number",
-        "meta": "@sys.number",
-        "userDefined": false
-      },
-      {
-        "text": " retrait social",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "7108f443-b947-4a90-8ebc-5eef685345ba",
+    "id": "2e6b19ae-25b5-4093-93a6-9d6d57e6a875",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -35,7 +13,17 @@
         "userDefined": false
       },
       {
-        "text": " incapacité à ressentir de la joie, même lors d\u0027occasions heureuses",
+        "text": " incapacité à ressentir de la joie, même lors d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "occasions",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " heureuses",
         "userDefined": false
       }
     ],
@@ -44,7 +32,7 @@
     "updated": 0
   },
   {
-    "id": "cf678229-4fa4-4a56-a1cd-e3be0b5511c1",
+    "id": "5f095264-62af-45c6-8c1b-c7cfc65605a5",
     "data": [
       {
         "text": "J\u0027ai du mal à fonctionner au travail",
@@ -56,10 +44,16 @@
     "updated": 0
   },
   {
-    "id": "9833d6de-0c49-40ae-93af-2cded7925ca3",
+    "id": "5061018b-d1b9-494e-afbd-abc751b9f2e7",
     "data": [
       {
-        "text": "J\u0027ai du mal à fonctionner à l\u0027école",
+        "text": "J\u0027ai du mal à fonctionner à ",
+        "userDefined": false
+      },
+      {
+        "text": "l\u0027école",
+        "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],
@@ -68,7 +62,7 @@
     "updated": 0
   },
   {
-    "id": "74b3b8db-e883-44d1-95ee-1e2b1ae9a9bc",
+    "id": "730598da-a543-4148-9b5e-798530372bcb",
     "data": [
       {
         "text": "J\u0027ai des problèmes de concentration et de mémoire",
@@ -80,7 +74,7 @@
     "updated": 0
   },
   {
-    "id": "9205cb0d-b4c5-491c-99d8-a63e667e57ff",
+    "id": "cc274183-2ba9-4ef8-a3a8-a2206fa2271b",
     "data": [
       {
         "text": "J\u0027ai des changements dans les habitudes de sommeil ou ",
@@ -93,25 +87,13 @@
         "userDefined": false
       },
       {
-        "text": " faible énergie",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "8687e945-ef1f-49c8-9a72-5fd35f219762",
-    "data": [
-      {
-        "text": "J\u0027ai des changements d\u0027",
+        "text": " faible ",
         "userDefined": false
       },
       {
-        "text": "appétit",
-        "alias": "eating-disorder",
-        "meta": "@Eating-disorder",
+        "text": "énergie",
+        "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],
@@ -120,7 +102,19 @@
     "updated": 0
   },
   {
-    "id": "e95ff1fd-f0b5-49b6-af7e-0372f9af4c3e",
+    "id": "6a29216e-4e6f-4130-bbd2-b29f1460f05e",
+    "data": [
+      {
+        "text": "J\u0027ai des changements d\u0027appétit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1ba4e17-8d74-40f8-ae18-1062ee202140",
     "data": [
       {
         "text": "Je manque d\u0027intérêt pour les choses que j\u0027ai appréciées",
@@ -132,7 +126,7 @@
     "updated": 0
   },
   {
-    "id": "8c5ea9c4-476d-4bca-ac98-af0e355d9dfe",
+    "id": "a409e607-995d-4e7c-8a35-b82ab283cbe2",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -150,7 +144,7 @@
       },
       {
         "text": "un",
-        "alias": "number1",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": false
       },
@@ -164,7 +158,7 @@
     "updated": 0
   },
   {
-    "id": "da2f79bc-ee41-47a0-9b08-b105641508e0",
+    "id": "fe9472ab-d7de-465d-9172-f99e256e8b50",
     "data": [
       {
         "text": "Je ressens ",
@@ -182,12 +176,34 @@
       },
       {
         "text": "un",
-        "alias": "number1",
+        "alias": "number",
         "meta": "@sys.number",
         "userDefined": false
       },
       {
         "text": " désespoir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98a75262-3490-45db-96a7-e944ceb949e7",
+    "data": [
+      {
+        "text": "Je ressens ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " retrait social",
         "userDefined": false
       }
     ],
