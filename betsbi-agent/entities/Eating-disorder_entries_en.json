@@ -1,0 +1,25 @@
+[
+  {
+    "value": "mange",
+    "synonyms": [
+      "mange",
+      "bouffe"
+    ]
+  },
+  {
+    "value": "manger",
+    "synonyms": [
+      "manger",
+      "bouffer"
+    ]
+  },
+  {
+    "value": "faim",
+    "synonyms": [
+      "faim",
+      "appétit",
+      "gloutonnerie",
+      "inappétence"
+    ]
+  }
+]

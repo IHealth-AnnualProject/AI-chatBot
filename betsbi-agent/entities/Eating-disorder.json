@@ -1,0 +1,9 @@
+{
+  "id": "e414aa88-0148-45a3-865a-9897c643dd8d",
+  "name": "Eating-disorder",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

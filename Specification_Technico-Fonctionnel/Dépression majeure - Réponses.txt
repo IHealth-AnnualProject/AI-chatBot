@@ -1,0 +1,89 @@
+**** Pris de https://www.verywellmind.com/tips-for-living-with-depression-1066834 *************************************
+
+1. Créez un réseau d'assistance:
+L'une des choses les plus importantes que vous puissiez faire pour vous aider avec la dépression, à part les médicaments et la thérapie, est de développer un solide soutien social.
+
+Pour certains, cela peut signifier forger des liens plus étroits avec des amis ou la famille. Le fait de savoir que vous pouvez compter sur vos proches pour vous aider peut grandement contribuer à améliorer votre dépression.
+
+Pour d'autres, un groupe de soutien sur la dépression peut être essentiel.1 Il peut impliquer un groupe communautaire qui se réunit dans votre région ou vous pourriez trouver un groupe de soutien en ligne qui répond à vos besoins.
+
+2. Réduisez votre stress:
+Lorsque vous êtes stressé, votre corps produit plus d'une hormone appelée cortisol. À court terme, c'est une bonne chose car cela vous aide à vous préparer à faire face à tout ce qui cause le stress dans votre vie.
+
+À long terme, cependant, cela peut vous causer de nombreux problèmes, y compris la dépression. Plus vous utilisez de techniques pour réduire le stress, mieux c'est, car cela réduira votre risque de déprimer.
+
+3. Améliorez votre hygiène de sommeil:
+Le sommeil et l'humeur sont intimement liés. Vous pourriez avoir l'impression de ne pas pouvoir vous endormir. Ou peut-être que vous avez du mal à sortir du lit parce que vous vous sentez épuisé tout le temps.
+
+Une bonne hygiène du sommeil pourrait être essentielle pour améliorer la qualité et la quantité de votre sommeil.
+
+Éteignez l'électronique au moins une heure avant de vous coucher. Utilisez une lumière tamisée pour lire un livre ou participez à une autre activité relaxante.
+
+N'utilisez votre lit que pour le sommeil et l'activité sexuelle. Faire du travail au lit, ou même dans votre chambre, peut vous amener à associer votre lit au stress plutôt qu'à la relaxation.
+
+4. Améliorez vos habitudes alimentaires:
+La recherche continue de trouver des liens clairs entre l'alimentation et la santé mentale. En fait, il y a eu tellement d'études qui ont montré que l'amélioration de la nutrition peut prévenir et traiter la maladie mentale que la psychiatrie nutritionnelle est devenue courante.
+
+Il existe de nombreux nutriments essentiels au cerveau qui peuvent affecter la dépression. Par exemple, une étude de 2012 a révélé que la carence en zinc augmente les symptômes de la dépression.
+
+L'amélioration de votre alimentation pourrait être essentielle pour réduire vos symptômes.
+
+Mais avant d'apporter des changements majeurs à votre alimentation ou de commencer à prendre des vitamines ou des suppléments, parlez-en à votre médecin.
+
+5. Apprenez à arrêter les pensées négatives
+La dépression ne vous fait pas seulement vous sentir mal, elle peut aussi vous faire penser plus négativement. Cependant, changer ces pensées négatives peut améliorer votre humeur.
+
+La thérapie cognitivo-comportementale (TCC) est un type de thérapie qui vise à modifier les schémas courants de pensée négative appelés distorsions cognitives afin d'éliminer la dépression.6 Il existe également de nombreux livres d'auto-assistance, des applications et des cours en ligne qui peuvent vous aider à apprendre comment changer vos schémas de pensée malsains.
+
+6. Battez la procrastination
+Les symptômes de la dépression, comme la fatigue et la difficulté à se concentrer, rendent la procrastination tentante.
+
+Le report des choses alimente la dépression. Cela peut conduire à une culpabilité, une inquiétude et un stress accrus.
+
+Il est important de fixer des délais et de bien gérer votre temps. Établissez des objectifs à court terme et travaillez dur pour que les choses les plus importantes soient faites en premier. Chaque tâche que vous accomplissez avec succès vous aidera à briser l'habitude de la procrastination.
+
+7. Maîtrisez vos tâches ménagères
+La dépression peut compliquer les tâches ménagères, comme faire la vaisselle ou payer les factures.
+
+Mais une pile de paperasse, une pile de vaisselle sale et un sol couvert de vêtements sales ne feront qu'amplifier vos sentiments d'inutilité.
+
+Prenez le contrôle de vos tâches quotidiennes. Commencez petit et travaillez sur un projet à la fois. Se lever et bouger peut vous aider à vous sentir mieux en soi. Mais voir vos progrès à la maison peut vous aider à vous sentir mieux.
+
+8. Créez une boîte à outils de bien-être
+Une boîte à outils de bien-être est un ensemble d'outils que vous pouvez utiliser pour vous apaiser lorsque vous vous sentez déprimé.
+
+Les outils que vous trouvez les plus utiles peuvent ne pas fonctionner pour quelqu'un d'autre, il est donc important de bien réfléchir à ce qui peut vous aider à vous sentir mieux.
+
+Pensez aux choses que vous aimez faire lorsque vous êtes heureux. Ensuite, lorsque vous vous sentez déprimé, essayez l'une de ces activités.
+
+Câliner votre animal de compagnie, écouter votre musique préférée, prendre un bain chaud ou lire un bon livre ne sont que quelques-uns des outils que vous pourriez trouver utiles.
+
+Créez une liste des activités que vous pourriez essayer lorsque vous vous sentez mal. Ensuite, choisissez une activité à essayer lorsque vous traversez une période particulièrement difficile.
+
+
+
+##########################################################################################################################################################################################################################
+Fonctionne :
+
+
+
+Erreur :
+
+
+
+EXPORT :
+
+
+[...]
+
+Lien webhook DialogFlow --> Webservice : 
+Lien localhost : Ngrok affichage des requêtes get/post / res :
+Lien webapps espace client :
+
+Data Robot : Machine Learning visuel :
+Data IQ : 
+Interfacer avec des IHM
+Automatiser le réapprentissage pour le machine learning.
+
+
+
