@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Yo",
+    "synonyms": [
+      "Yo"
+    ]
+  },
+  {
+    "value": "Bonjour",
+    "synonyms": [
+      "Bonjour"
+    ]
+  },
+  {
+    "value": "Salut",
+    "synonyms": [
+      "Salut"
+    ]
+  },
+  {
+    "value": "Hello",
+    "synonyms": [
+      "Hello"
+    ]
+  },
+  {
+    "value": "Bonsoir",
+    "synonyms": [
+      "Bonsoir"
+    ]
+  }
+]

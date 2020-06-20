@@ -12,7 +12,20 @@
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "5770a392-a381-4c90-8bf6-3438dd36a657",
+          "required": false,
+          "dataType": "@lancer-diagnostic",
+          "name": "lancer-diagnostic",
+          "value": "$lancer-diagnostic",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,

@@ -1,0 +1,9 @@
+{
+  "id": "56610ed0-3844-442b-aaa9-3ed3ec5c5add",
+  "name": "Greeting",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

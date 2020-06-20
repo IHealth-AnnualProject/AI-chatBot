@@ -1,12 +1,12 @@
 [
   {
-    "id": "27cf0c3a-5e5d-4988-a49d-fb261520f991",
+    "id": "fe62c98a-74d9-4b72-8eac-f4ba7e03ddf3",
     "data": [
       {
         "text": "Yo",
-        "alias": "language",
-        "meta": "@sys.language",
-        "userDefined": false
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
@@ -14,13 +14,13 @@
     "updated": 0
   },
   {
-    "id": "bf446468-f5f1-4993-9a0f-92fb13718287",
+    "id": "abc70039-0289-488d-bb67-d819d1fae0af",
     "data": [
       {
         "text": "Salut",
-        "alias": "geo-city",
-        "meta": "@sys.geo-city",
-        "userDefined": false
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
@@ -28,11 +28,13 @@
     "updated": 0
   },
   {
-    "id": "cf7f2420-b6b4-4e3f-8281-88ddf6a41d64",
+    "id": "9dec82fb-8602-4e8e-94ab-1c03ce8385e3",
     "data": [
       {
         "text": "Bonjour",
-        "userDefined": false
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
       }
     ],
     "isTemplate": false,

@@ -15,23 +15,11 @@
       ],
       "parameters": [
         {
-          "id": "714470be-9810-4a24-a33d-8a16dd0a60d3",
+          "id": "8f485450-209d-44a6-92ea-f5dcfdc222f4",
           "required": false,
-          "dataType": "@sys.geo-city",
-          "name": "geo-city",
-          "value": "$geo-city",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        },
-        {
-          "id": "7da48e90-2179-4dbd-bd61-04c97716a9cd",
-          "required": false,
-          "dataType": "@sys.language",
-          "name": "language",
-          "value": "$language",
+          "dataType": "@Greeting",
+          "name": "Greeting",
+          "value": "$Greeting",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
