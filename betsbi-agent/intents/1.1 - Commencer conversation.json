@@ -15,7 +15,7 @@
       ],
       "parameters": [
         {
-          "id": "92a1cd5b-f9a6-4634-ac98-ecba749f7a41",
+          "id": "714470be-9810-4a24-a33d-8a16dd0a60d3",
           "required": false,
           "dataType": "@sys.geo-city",
           "name": "geo-city",
@@ -27,7 +27,7 @@
           "isList": false
         },
         {
-          "id": "6ab9bdc4-e29b-43c1-8fbb-5cd4d80cc40e",
+          "id": "7da48e90-2179-4dbd-bd61-04c97716a9cd",
           "required": false,
           "dataType": "@sys.language",
           "name": "language",
@@ -44,7 +44,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésitez pas à contacter un psychologue si vous cherchez l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de vous aider le mieux possible. Maintenant dis-moi, comment vas-tu ?"
+          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésitez pas à contacter un psychologue si vous cherchez l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de vous aider le mieux possible. Pour commencer, demande moi de lancer un diagnose. Ou décris ta situation."
         }
       ],
       "defaultResponsePlatforms": {},

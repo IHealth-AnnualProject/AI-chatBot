@@ -1,0 +1,9 @@
+{
+  "id": "91f5a4d8-8382-4170-abfe-5165a1ca9b0a",
+  "name": "lancer-diagnostic",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
