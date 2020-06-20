@@ -15,7 +15,7 @@
       ],
       "parameters": [
         {
-          "id": "8f485450-209d-44a6-92ea-f5dcfdc222f4",
+          "id": "369f84d2-cb4e-4ebd-9d5f-caa6f276d4ba",
           "required": false,
           "dataType": "@Greeting",
           "name": "Greeting",
@@ -32,7 +32,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésitez pas à contacter un psychologue si vous cherchez l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de vous aider le mieux possible. Pour commencer, demande moi de lancer un diagnose. Ou décris ta situation."
+          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésite pas à contacter un psychologue si tu cherches l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de t\u0027aider le mieux possible. Pour commencer, demande moi de lancer un diagnose. Ou décris ta situation."
         }
       ],
       "defaultResponsePlatforms": {},

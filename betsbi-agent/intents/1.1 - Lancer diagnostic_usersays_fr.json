@@ -1,9 +1,9 @@
 [
   {
-    "id": "bad7bc79-8aa7-4f67-9959-169c0ac8f4ef",
+    "id": "8c8602e5-041e-4bce-99e2-2ab73ecbf249",
     "data": [
       {
-        "text": "Lancer le diagnostic",
+        "text": "Lancer le diagnosticUnassigned",
         "alias": "lancer-diagnostic",
         "meta": "@lancer-diagnostic",
         "userDefined": true
@@ -14,7 +14,7 @@
     "updated": 0
   },
   {
-    "id": "d1e75da9-7790-4072-84b3-4bdae212103b",
+    "id": "abaa8cde-3dd8-4dd7-829a-2cc3a5e6ef40",
     "data": [
       {
         "text": "Lancer un diagnostic",
@@ -28,7 +28,7 @@
     "updated": 0
   },
   {
-    "id": "b0dbdaf4-65d3-41da-8a44-5b710f335b1e",
+    "id": "a81e7481-b0d1-48ab-b14e-6b30cb68ba3e",
     "data": [
       {
         "text": "Lancer diagnostic",
