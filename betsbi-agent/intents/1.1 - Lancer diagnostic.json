@@ -14,7 +14,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "5770a392-a381-4c90-8bf6-3438dd36a657",
+          "id": "ea471bca-3bfe-4ba2-a433-4cf17fd78a80",
           "required": false,
           "dataType": "@lancer-diagnostic",
           "name": "lancer-diagnostic",
@@ -31,7 +31,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "Je souhaite cerner au mieux vos attentes. Pour cela je vous propose de commencer par me dire parmi les suivantes descriptions, laquelle s\u0027adapte le mieux à ta situation:\n- J\u0027ai un peu le cafard\n- J\u0027ai plus que le cafard temporairement. Cela dure depuis des jours et c\u0027est suffisamment visible pour interférer avec mes activités habituelles.\n- Ma dépression est suffisamment grave pour causer des problèmes à la maison et au travail. Cela me cause des difficultés importantes dans ma vie sociale.\n- Ma dépression me paralyse, elle est perceptible pour moi et les gens autour de moi. Je m\u0027isole et j\u0027ai du mal à sortir du lit ou à quitter la maison, j\u0027ai eu des pensées d\u0027automutilation."
         },
         {
           "type": 0,
