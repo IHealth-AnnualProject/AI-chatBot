@@ -11,10 +11,16 @@
     {
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "11-Lancerdiagnostic-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
-          "id": "facfeb9d-9486-4757-b6f2-685a7cf1de02",
+          "id": "9df1a43d-be57-4ec5-b93a-ac44946f82db",
           "required": false,
           "dataType": "@lancer-diagnostic",
           "name": "lancer-diagnostic",

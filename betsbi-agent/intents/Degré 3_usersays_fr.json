@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ec8fa9bd-db81-428a-824d-18be5e183fd2",
+    "data": [
+      {
+        "text": "Ma dépression est suffisamment grave pour causer des problèmes à ",
+        "userDefined": false
+      },
+      {
+        "text": "la maison",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " et au travail. Cela me cause des difficultés importantes dans ma vie sociale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
