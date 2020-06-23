@@ -2,7 +2,7 @@
   "id": "a05a7e42-c8d5-41fd-bb91-59f2aebb73ff",
   "parentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "1.1 - Identification de troubles du sommeil",
+  "name": "Description libre",
   "auto": true,
   "contexts": [
     "11-Commencerconversation-followup"
@@ -15,19 +15,23 @@
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "fr",
-          "condition": "",
-          "speech": "Voici la suite"
+          "speech": [
+            "Voici la suite"
+          ],
+          "condition": ""
         },
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "en",
-          "condition": "",
-          "speech": []
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

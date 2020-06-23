@@ -1,6 +1,5 @@
 [
   {
-    "id": "5cff097a-6a2d-4027-8f8a-70d77d5a28b6",
     "data": [
       {
         "text": "J\u0027ai une distraction accrue",
@@ -9,10 +8,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "33143fa0-af5c-49f4-8e4c-1f04e2e73452",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -20,8 +19,8 @@
       },
       {
         "text": "un",
-        "alias": "number",
         "meta": "@sys.number",
+        "alias": "number",
         "userDefined": false
       },
       {
@@ -31,10 +30,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "6635ef2a-cdb5-4d61-8e99-f6ad0e387756",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -42,8 +41,8 @@
       },
       {
         "text": "un",
-        "alias": "number",
         "meta": "@sys.number",
+        "alias": "number",
         "userDefined": false
       },
       {
@@ -53,10 +52,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "fca6f82a-9785-4ba2-a652-290c018acfb7",
     "data": [
       {
         "text": "J\u0027ai moins besoin de dormir",
@@ -65,10 +64,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "6a9b6409-43ae-420d-bcd3-e5347aebc773",
     "data": [
       {
         "text": "J\u0027ai des pensées de course ou ",
@@ -76,8 +75,8 @@
       },
       {
         "text": "une",
-        "alias": "number",
         "meta": "@sys.number",
+        "alias": "number",
         "userDefined": false
       },
       {
@@ -87,10 +86,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "ba9aa6a1-4c24-4e91-8890-d563ac63dc02",
     "data": [
       {
         "text": "Je prévois des idées et des projets trop nouveaux sans tenir compte des risques",
@@ -99,10 +98,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "be668c60-d275-43ea-bbc1-8faa7bd3c7a0",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -110,8 +109,8 @@
       },
       {
         "text": "une",
-        "alias": "number",
         "meta": "@sys.number",
+        "alias": "number",
         "userDefined": false
       },
       {
@@ -121,10 +120,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "112ce003-133c-407e-8171-5ea37c57c6fc",
     "data": [
       {
         "text": "J\u0027ai des illusions de grandeur",
@@ -133,10 +132,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "f5fe224d-cfac-47f5-ab2e-c03d133707ec",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -144,8 +143,8 @@
       },
       {
         "text": "un",
-        "alias": "number",
         "meta": "@sys.number",
+        "alias": "number",
         "userDefined": false
       },
       {
@@ -154,8 +153,8 @@
       },
       {
         "text": "une",
-        "alias": "number1",
         "meta": "@sys.number",
+        "alias": "number1",
         "userDefined": false
       },
       {
@@ -165,6 +164,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

@@ -6,36 +6,41 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [
         {
           "name": "11-Commencerconversation-followup",
-          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "369f84d2-cb4e-4ebd-9d5f-caa6f276d4ba",
+          "name": "Greeting",
           "required": false,
           "dataType": "@Greeting",
-          "name": "Greeting",
           "value": "$Greeting",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         }
       ],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "fr",
-          "condition": "",
-          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésite pas à contacter un psychologue si tu cherches l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de t\u0027aider le mieux possible. Pour commencer, demande moi de lancer un diagnose. Ou décris ta situation."
+          "speech": [
+            "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésite pas à contacter un psychologue si tu cherches l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de t\u0027aider le mieux possible. Pour commencer, demande moi de lancer un diagnose. Ou décris ta situation."
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

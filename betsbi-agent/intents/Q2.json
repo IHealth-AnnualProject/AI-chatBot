@@ -1,8 +1,8 @@
 {
-  "id": "101d7bd1-add3-4195-8ca7-da118c8ea70c",
+  "id": "91b37c79-bb9e-4369-9448-1f2a417dfcd2",
   "parentId": "90450b73-d59f-44ba-a430-35da843c9b8d",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "Degré 4",
+  "name": "Q2",
   "auto": true,
   "contexts": [
     "11-Lancerdiagnostic-followup"
@@ -13,17 +13,35 @@
       "action": "11-Commencerconversation.11-Commencerconversation-custom.11-Lancerdiagnostic-custom",
       "affectedContexts": [
         {
-          "name": "Degr4-followup",
+          "name": "Q2-followup",
           "lifespan": 2
         }
       ],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "5d7425c3-6a55-4289-8d72-faac9ea70007",
+          "name": "location",
+          "required": false,
+          "dataType": "@sys.location",
+          "value": "$location",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
       "messages": [
         {
           "type": "0",
           "title": "",
           "textToSpeech": "",
           "lang": "fr",
+          "speech": [
+            "2. Je me sens agité ou agité (je marche, je suis incapable de rester calme ou j\u0027ai besoin de bouger constamment)."
+          ],
           "condition": ""
         },
         {

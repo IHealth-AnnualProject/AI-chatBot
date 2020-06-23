@@ -1,24 +1,29 @@
 {
-  "id": "325a01f9-7ed4-4d73-aa27-76e9b6eb23ce",
-  "parentId": "90450b73-d59f-44ba-a430-35da843c9b8d",
+  "id": "90450b73-d59f-44ba-a430-35da843c9b8d",
+  "parentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "Degré 3",
+  "name": "Q1",
   "auto": true,
   "contexts": [
-    "11-Lancerdiagnostic-followup"
+    "11-Commencerconversation-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom.11-Lancerdiagnostic-custom",
-      "affectedContexts": [],
+      "action": "11-Commencerconversation.11-Commencerconversation-custom",
+      "affectedContexts": [
+        {
+          "name": "11-Lancerdiagnostic-followup",
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
-          "id": "a0aebfee-8e68-431c-8e9e-379ab2f0c774",
-          "name": "location",
+          "id": "6ce61791-b130-4b41-a64a-fabbd989451a",
+          "name": "lancer-diagnostic",
           "required": false,
-          "dataType": "@sys.location",
-          "value": "$location",
+          "dataType": "@lancer-diagnostic",
+          "value": "$lancer-diagnostic",
           "defaultValue": "",
           "isList": false,
           "prompts": [],
@@ -32,6 +37,17 @@
         {
           "type": "0",
           "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "speech": [
+            "Je souhaite cerner au mieux vos attentes. Pour cela je vous propose de commencer par me répondre aux suivantes questions dans un degré entre :\n - La plupart du temps \n- Souvent \n- Parfois \n- Rarement \n- Presque jamais\n\n1. Je me sens triste."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {},
           "textToSpeech": "",
           "lang": "fr",
           "condition": ""

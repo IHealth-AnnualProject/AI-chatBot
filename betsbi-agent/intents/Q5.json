@@ -1,37 +1,25 @@
 {
-  "id": "d09a2592-7d66-4aee-bc67-586e88e2e89e",
-  "name": "2. Dépression persistante",
+  "id": "265ef25a-9a59-4944-8a44-4ff880777ee1",
+  "parentId": "bed90eb3-e7a8-4c53-b6fe-24555251b681",
+  "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "Q5",
   "auto": true,
   "contexts": [
-    "11-Commencerconversation-followup"
+    "Q3-custom-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "",
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.11-Lancerdiagnostic-custom.Q2-custom.Q3-custom.Q3-custom-custom",
       "affectedContexts": [
         {
-          "name": "11-Commencerconversation-followup",
-          "lifespan": 5
+          "name": "Q3-custom-custom-followup",
+          "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "6be0424b-d3c2-4f0d-8026-a0d073aadbdd",
-          "name": "number",
-          "required": false,
-          "dataType": "@sys.number",
-          "value": "$number",
-          "defaultValue": "",
-          "isList": true,
-          "prompts": [],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": []
-        },
-        {
-          "id": "0e8d5542-e210-4aa3-81c3-a99d049a15d3",
+          "id": "925c2cf3-39fe-4b7f-93a6-244de2f94a53",
           "name": "location",
           "required": false,
           "dataType": "@sys.location",
@@ -46,6 +34,13 @@
         }
       ],
       "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        },
         {
           "type": "0",
           "title": "",

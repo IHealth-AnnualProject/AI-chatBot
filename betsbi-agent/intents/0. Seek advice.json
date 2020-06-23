@@ -6,36 +6,40 @@
   "responses": [
     {
       "resetContexts": false,
+      "action": "",
       "affectedContexts": [],
       "parameters": [
         {
           "id": "60337c2f-74c7-48d5-b4b2-b971cf8c9757",
+          "name": "number",
           "required": false,
           "dataType": "@sys.number",
-          "name": "number",
           "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
+          "outputDialogContexts": []
         }
       ],
       "messages": [
         {
-          "type": 0,
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
           "lang": "fr",
-          "condition": "",
           "speech": [
             "Bien sûr, je suis là pour ça. Je ferai de mon mieux pour vous aider. Dites-moi ce qui se passe.",
             "Telle est ma mission, je ferai de mon mieux pour vous aider. Dites-moi ce qui se passe.",
             "Telle est ma mission, je ferai de mon mieux pour aider. Racontez-moi un peu ce qui se passe.",
             "Je ferai de mon mieux pour apporter un conseil qui puisse vous être utile. Dites-moi ce qui se passe.",
             "Tout d\u0027abord, merci de votre confiance. Je ferai de mon mieux pour vous aider. Racontez-moi ce qui se passe."
-          ]
+          ],
+          "condition": ""
         }
       ],
-      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

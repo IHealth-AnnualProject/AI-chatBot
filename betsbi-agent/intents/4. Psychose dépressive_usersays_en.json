@@ -1,6 +1,5 @@
 [
   {
-    "id": "f048a185-3308-4ff5-a2e6-1f6910309c62",
     "data": [
       {
         "text": "J\u0027ai la paranoïa",
@@ -9,10 +8,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "dcb4eea1-5a64-4fb5-975d-f171f2f6f9c1",
     "data": [
       {
         "text": "J\u0027ai des illusions",
@@ -21,10 +20,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "e8c21e2c-78b7-47c0-aada-750b075e85ff",
     "data": [
       {
         "text": "J\u0027ai des hallucinations",
@@ -33,6 +32,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

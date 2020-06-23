@@ -1,37 +1,25 @@
 {
-  "id": "d09a2592-7d66-4aee-bc67-586e88e2e89e",
-  "name": "2. Dépression persistante",
+  "id": "bed90eb3-e7a8-4c53-b6fe-24555251b681",
+  "parentId": "300af30c-288e-4e67-950e-4bfdb411bbf5",
+  "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "Q4",
   "auto": true,
   "contexts": [
-    "11-Commencerconversation-followup"
+    "Q3-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "",
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.11-Lancerdiagnostic-custom.Q2-custom.Q3-custom",
       "affectedContexts": [
         {
-          "name": "11-Commencerconversation-followup",
-          "lifespan": 5
+          "name": "Q3-custom-followup",
+          "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "6be0424b-d3c2-4f0d-8026-a0d073aadbdd",
-          "name": "number",
-          "required": false,
-          "dataType": "@sys.number",
-          "value": "$number",
-          "defaultValue": "",
-          "isList": true,
-          "prompts": [],
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": []
-        },
-        {
-          "id": "0e8d5542-e210-4aa3-81c3-a99d049a15d3",
+          "id": "0d20e558-e715-434c-bd5e-1a5c5a9e5707",
           "name": "location",
           "required": false,
           "dataType": "@sys.location",
@@ -46,6 +34,16 @@
         }
       ],
       "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "speech": [
+            "4. Je me sens tellement coupable que je peux à peine le supporter."
+          ],
+          "condition": ""
+        },
         {
           "type": "0",
           "title": "",

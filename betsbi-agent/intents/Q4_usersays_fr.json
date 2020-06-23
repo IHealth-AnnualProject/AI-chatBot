@@ -2,17 +2,7 @@
   {
     "data": [
       {
-        "text": "Je suis ",
-        "userDefined": false
-      },
-      {
-        "text": "un",
-        "meta": "@sys.number",
-        "alias": "number",
-        "userDefined": false
-      },
-      {
-        "text": " peu triste",
+        "text": "Rarement",
         "userDefined": false
       }
     ],
@@ -24,7 +14,7 @@
   {
     "data": [
       {
-        "text": "Je suis triste",
+        "text": "Presque jamais",
         "userDefined": false
       }
     ],
@@ -36,7 +26,33 @@
   {
     "data": [
       {
-        "text": "J\u0027ai un peu le cafard",
+        "text": "Parfois",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Souvent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "La plupart du temps",
         "userDefined": false
       }
     ],

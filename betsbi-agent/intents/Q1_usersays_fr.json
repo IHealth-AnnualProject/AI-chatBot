@@ -1,44 +1,44 @@
 [
   {
-    "id": "161d6ddc-254d-44e2-b197-f42471daae66",
     "data": [
       {
         "text": "Lancer le diagnostic",
-        "alias": "lancer-diagnostic",
         "meta": "@lancer-diagnostic",
+        "alias": "lancer-diagnostic",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "fr",
     "updated": 0
   },
   {
-    "id": "8cec843e-009d-4dc8-be07-d25fd2efd40e",
     "data": [
       {
         "text": "Lancer un diagnostic",
-        "alias": "lancer-diagnostic",
         "meta": "@lancer-diagnostic",
+        "alias": "lancer-diagnostic",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "fr",
     "updated": 0
   },
   {
-    "id": "13c66bdc-ad7e-4118-9848-1c566df87f30",
     "data": [
       {
         "text": "Lancer diagnostic",
-        "alias": "lancer-diagnostic",
         "meta": "@lancer-diagnostic",
+        "alias": "lancer-diagnostic",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "fr",
     "updated": 0
   }
 ]

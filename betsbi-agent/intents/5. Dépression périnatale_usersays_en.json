@@ -1,6 +1,5 @@
 [
   {
-    "id": "0ea4ad8b-afd5-4c61-9bba-c75c6eb9837e",
     "data": [
       {
         "text": "J\u0027ai des pensées d\u0027automutilation ou de mal à ",
@@ -8,8 +7,8 @@
       },
       {
         "text": "mon",
-        "alias": "date-time",
         "meta": "@sys.date-time",
+        "alias": "date-time",
         "userDefined": false
       },
       {
@@ -19,10 +18,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "bc94cb20-dccc-4f3c-aa11-2c958722a42e",
     "data": [
       {
         "text": "J\u0027ai de la difficulté à prendre soin de moi ou de mon bébé",
@@ -31,10 +30,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "05de3e56-2fc7-4241-bb70-f2aa0f6aa3cf",
     "data": [
       {
         "text": "Je me sens extrêmement préoccupé par la santé et la sécurité du bébé",
@@ -43,10 +42,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "a75f36c5-b810-408a-bb79-959924c2883e",
     "data": [
       {
         "text": "Je ressens de l\u0027épuisement",
@@ -55,10 +54,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "02104d06-ab80-4d16-a4b2-dc15a315ec12",
     "data": [
       {
         "text": "Je ressens de la colère ou de la rage",
@@ -67,10 +66,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "6c3980da-0c43-4bdb-9e1b-5a4ed4833e70",
     "data": [
       {
         "text": "Je ressens de l\u0027anxiété",
@@ -79,10 +78,10 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   },
   {
-    "id": "d333873d-55fb-47a2-81a1-be4bca60a62b",
     "data": [
       {
         "text": "Je ressens de la tristesse",
@@ -91,6 +90,7 @@
     ],
     "isTemplate": false,
     "count": 0,
+    "lang": "en",
     "updated": 0
   }
 ]

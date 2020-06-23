@@ -1,9 +1,10 @@
 {
-  "description": "",
+  "description": "An agent that does the betsbi conversation",
   "language": "en",
   "shortDescription": "",
   "examples": "",
   "linkToDocs": "",
+  "displayName": "betsbi-agent",
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
@@ -45,7 +46,9 @@
   "supportedLanguages": [
     "fr"
   ],
+  "enableOnePlatformApi": true,
   "onePlatformApiVersion": "v2",
+  "secondaryKey": "47a670016f724d85a8f59d542d6609ea",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
   "knowledgeServiceConfidenceAdjustment": -0.4,
