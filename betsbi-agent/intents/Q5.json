@@ -19,7 +19,7 @@
       ],
       "parameters": [
         {
-          "id": "925c2cf3-39fe-4b7f-93a6-244de2f94a53",
+          "id": "d4446104-d7f8-424d-8657-ec025e2cff2b",
           "name": "location",
           "required": false,
           "dataType": "@sys.location",
@@ -39,6 +39,9 @@
           "title": "",
           "textToSpeech": "",
           "lang": "fr",
+          "speech": [
+            "5. Quand je me réveille le matin, j\u0027ai l\u0027impression qu\u0027il n\u0027y a rien à attendre."
+          ],
           "condition": ""
         },
         {

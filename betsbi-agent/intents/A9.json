@@ -1,25 +1,20 @@
 {
-  "id": "5c19ba14-8271-47b0-a1ff-e5af326b07be",
-  "parentId": "499c67fb-10b0-46b0-baba-eaa0b865cbaf",
+  "id": "f7ec2bd5-e425-40a6-ac51-3daaed814d81",
+  "parentId": "b395733d-7475-45bd-8967-6199433af263",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "Q7",
+  "name": "A9",
   "auto": true,
   "contexts": [
-    "Q3-custom-custom-custom-followup"
+    "Q8-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom.11-Lancerdiagnostic-custom.Q2-custom.Q3-custom.Q3-custom-custom.Q3-custom-custom-custom.Q3-custom-custom-custom-custom",
-      "affectedContexts": [
-        {
-          "name": "Q7-followup",
-          "lifespan": 2
-        }
-      ],
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.11-Lancerdiagnostic-custom.Q2-custom.Q3-custom.Q3-custom-custom.Q3-custom-custom-custom.Q3-custom-custom-custom-custom.Q7-custom.Q8-custom",
+      "affectedContexts": [],
       "parameters": [
         {
-          "id": "8173ab36-55a5-420c-8a52-3904f5666361",
+          "id": "b8f459fc-f1e4-4672-8d39-2e5c6fdf9731",
           "name": "location",
           "required": false,
           "dataType": "@sys.location",
@@ -40,7 +35,7 @@
           "textToSpeech": "",
           "lang": "fr",
           "speech": [
-            "7. Au besoin, je peux me décider rapidement."
+            "Félicitations ! Vous avez fini le test. Votre situation est grave, appelez un psy d\u0027urgence !"
           ],
           "condition": ""
         },
