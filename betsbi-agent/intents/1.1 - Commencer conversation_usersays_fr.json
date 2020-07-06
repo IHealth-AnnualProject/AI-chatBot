@@ -1,44 +1,44 @@
 [
   {
+    "id": "ca522e9a-eb01-498f-bbc4-c554a66637ca",
     "data": [
       {
         "text": "Yo",
-        "meta": "@Greeting",
         "alias": "Greeting",
+        "meta": "@Greeting",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "aedb156a-0af4-4437-b511-b300a031f6e9",
     "data": [
       {
         "text": "Salut",
-        "meta": "@Greeting",
         "alias": "Greeting",
+        "meta": "@Greeting",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "200f5429-4c6a-48ad-bb9e-3c992fdc3fd3",
     "data": [
       {
         "text": "Bonjour",
-        "meta": "@Greeting",
         "alias": "Greeting",
+        "meta": "@Greeting",
         "userDefined": true
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   }
 ]

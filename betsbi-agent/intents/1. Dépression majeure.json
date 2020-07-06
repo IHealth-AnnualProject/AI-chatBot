@@ -6,63 +6,56 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "",
       "affectedContexts": [
         {
           "name": "1Dpressionmajeure-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "da4338e6-85b1-4799-a23c-2a81533e5215",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         },
         {
           "id": "102b8563-b9c3-4ec4-9b39-34a7e2da062e",
-          "name": "number",
           "required": false,
           "dataType": "@sys.number",
+          "name": "number",
           "value": "$number",
-          "defaultValue": "",
-          "isList": true,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": true
         },
         {
           "id": "12e0f3d7-12aa-4202-b128-49625eeeecec",
-          "name": "geo-city",
           "required": false,
           "dataType": "@sys.geo-city",
+          "name": "geo-city",
           "value": "$geo-city",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
+          "condition": "",
           "speech": [
             "Créer un réseau d\u0027assistance:\n\nL\u0027une des choses les plus importantes que vous puissiez faire pour vous aider avec la dépression, à part les médicaments et la thérapie, est de développer un solide soutien social.\n\nPour certains, cela peut signifier forger des liens plus étroits avec des amis ou la famille. Le fait de savoir que vous pouvez compter sur vos proches pour vous aider peut grandement contribuer à améliorer votre dépression.\n\nPour d\u0027autres, un groupe de soutien sur la dépression peut être essentiel. Il peut impliquer un groupe communautaire qui se réunit dans votre région ou vous pourriez trouver un groupe de soutien en ligne qui répond à vos besoins.",
             "Réduisez votre stress:\n\nLorsque vous êtes stressé, votre corps produit plus d\u0027une hormone appelée cortisol. À court terme, c\u0027est une bonne chose car cela vous aide à vous préparer à faire face à tout ce qui cause le stress dans votre vie.\n\nÀ long terme, cependant, cela peut vous causer de nombreux problèmes, y compris la dépression. Plus vous utilisez de techniques pour réduire le stress, mieux c\u0027est, car cela réduira votre risque de déprimer.",
@@ -72,14 +65,12 @@
             "Battez la procrastination:\n\nLes symptômes de la dépression, comme la fatigue et la difficulté à se concentrer, rendent la procrastination tentante.\n\nLe report des choses alimente la dépression. Cela peut entraîner une augmentation de la culpabilité, de l\u0027inquiétude et du stress.\n\nIl est important de fixer des délais et de bien gérer votre temps. Établissez des objectifs à court terme et travaillez dur pour que les choses les plus importantes soient faites en premier. Chaque tâche que vous accomplissez avec succès vous aidera à briser l\u0027habitude de la procrastination.",
             "Maîtrisez vos tâches ménagères:\n\nLa dépression peut compliquer les tâches ménagères, comme faire la vaisselle ou payer les factures.\n\nMais une pile de paperasse, une pile de vaisselle sale et un sol couvert de vêtements sales ne feront qu\u0027amplifier vos sentiments d\u0027inutilité.\n\nPrenez le contrôle de vos tâches quotidiennes. Commencez petit et travaillez sur un projet à la fois. Se lever et bouger peut vous aider à vous sentir mieux en soi. Mais voir vos progrès à la maison peut vous aider à vous sentir mieux.",
             "Créez une boîte à outils de bien-être:\n\nUne boîte à outils de bien-être est un ensemble d\u0027outils que vous pouvez utiliser pour vous apaiser lorsque vous vous sentez déprimé.\n\nLes outils que vous trouvez les plus utiles peuvent ne pas fonctionner pour quelqu\u0027un d\u0027autre, il est donc important de bien réfléchir à ce qui peut vous aider à vous sentir mieux.\n\nPensez aux choses que vous aimez faire lorsque vous êtes heureux. Ensuite, lorsque vous vous sentez déprimé, essayez l\u0027une de ces activités.\n\nCâliner votre animal de compagnie, écouter votre musique préférée, prendre un bain chaud ou lire un bon livre ne sont que quelques-uns des outils que vous pourriez trouver utiles.\n\nCréez une liste des activités que vous pourriez essayer lorsque vous vous sentez mal. Ensuite, choisissez une activité à essayer lorsque vous traversez une période particulièrement difficile."
-          ],
-          "condition": ""
+          ]
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
             "Créez un réseau d\u0027assistance:\n\nL\u0027une des choses les plus importantes que vous puissiez faire pour vous aider avec la dépression, à part les médicaments et la thérapie, est de développer un solide soutien social.\n\nPour certains, cela peut signifier forger des liens plus étroits avec des amis ou la famille. Le fait de savoir que vous pouvez compter sur vos proches pour vous aider peut grandement contribuer à améliorer votre dépression.\n\nPour d\u0027autres, un groupe de soutien sur la dépression peut être essentiel. Il peut impliquer un groupe communautaire qui se réunit dans votre région ou vous pourriez trouver un groupe de soutien en ligne qui répond à vos besoins.",
             "Réduisez votre stress:\nLorsque vous êtes stressé, votre corps produit plus d\u0027une hormone appelée cortisol. À court terme, c\u0027est une bonne chose car cela vous aide à vous préparer à faire face à tout ce qui cause le stress dans votre vie.\n\nÀ long terme, cependant, cela peut vous causer de nombreux problèmes, y compris la dépression. Plus vous utilisez de techniques pour réduire le stress, mieux c\u0027est, car cela réduira votre risque de déprimer.",
@@ -89,10 +80,10 @@
             "Battez la procrastination\nLes symptômes de la dépression, comme la fatigue et la difficulté à se concentrer, rendent la procrastination tentante.\n\nLe report des choses alimente la dépression. Cela peut conduire à une culpabilité, une inquiétude et un stress accrus.\n\nIl est important de fixer des délais et de bien gérer votre temps. Établissez des objectifs à court terme et travaillez dur pour que les choses les plus importantes soient faites en premier. Chaque tâche que vous accomplissez avec succès vous aidera à briser l\u0027habitude de la procrastination.",
             "Maîtrisez vos tâches ménagères\nLa dépression peut compliquer les tâches ménagères, comme faire la vaisselle ou payer les factures.\n\nMais une pile de paperasse, une pile de vaisselle sale et un sol couvert de vêtements sales ne feront qu\u0027amplifier vos sentiments d\u0027inutilité.\n\nPrenez le contrôle de vos tâches quotidiennes. Commencez petit et travaillez sur un projet à la fois. Se lever et bouger peut vous aider à vous sentir mieux en soi. Mais voir vos progrès à la maison peut vous aider à vous sentir mieux.",
             "Créez une boîte à outils de bien-être\nUne boîte à outils de bien-être est un ensemble d\u0027outils que vous pouvez utiliser pour vous apaiser lorsque vous vous sentez déprimé.\n\nLes outils que vous trouvez les plus utiles peuvent ne pas fonctionner pour quelqu\u0027un d\u0027autre, il est donc important de bien réfléchir à ce qui peut vous aider à vous sentir mieux.\n\nPensez aux choses que vous aimez faire lorsque vous êtes heureux. Ensuite, lorsque vous vous sentez déprimé, essayez l\u0027une de ces activités.\n\nCâliner votre animal de compagnie, écouter votre musique préférée, prendre un bain chaud ou lire un bon livre ne sont que quelques-uns des outils que vous pourriez trouver utiles.\n\nCréez une liste des activités que vous pourriez essayer lorsque vous vous sentez mal. Ensuite, choisissez une activité à essayer lorsque vous traversez une période particulièrement difficile."
-          ],
-          "condition": ""
+          ]
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

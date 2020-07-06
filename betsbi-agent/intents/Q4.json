@@ -14,44 +14,39 @@
       "affectedContexts": [
         {
           "name": "Q3-custom-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "0d20e558-e715-434c-bd5e-1a5c5a9e5707",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "4. Je me sens tellement coupable que je peux à peine le supporter."
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "4. Je me sens tellement coupable que je peux à peine le supporter."
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

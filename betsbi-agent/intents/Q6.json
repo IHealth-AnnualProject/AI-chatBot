@@ -14,44 +14,39 @@
       "affectedContexts": [
         {
           "name": "Q3-custom-custom-custom-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "17c772dd-6ab5-4c4f-ba41-b0e6ac631ce8",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "6. Je pense à la mort."
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "6. Je pense à la mort."
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

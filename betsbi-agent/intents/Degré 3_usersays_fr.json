@@ -1,5 +1,6 @@
 [
   {
+    "id": "799a30ce-9587-47e8-b960-5ee9ac7d5fff",
     "data": [
       {
         "text": "Ma dépression est suffisamment grave pour causer des problèmes à ",
@@ -7,8 +8,8 @@
       },
       {
         "text": "la maison",
-        "meta": "@sys.location",
         "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       },
       {
@@ -18,7 +19,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   }
 ]

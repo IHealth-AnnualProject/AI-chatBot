@@ -15,38 +15,32 @@
       "parameters": [
         {
           "id": "b8f459fc-f1e4-4672-8d39-2e5c6fdf9731",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "Félicitations ! Vous avez fini le test. Votre situation est grave, appelez un psy d\u0027urgence !"
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "Félicitations ! Vous avez fini le test. Votre situation est grave, appelez un psy d\u0027urgence !"
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

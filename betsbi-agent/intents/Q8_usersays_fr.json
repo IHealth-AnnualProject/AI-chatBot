@@ -1,5 +1,6 @@
 [
   {
+    "id": "5c42dc20-4c3d-40ab-a4d3-4474030b53e9",
     "data": [
       {
         "text": "Presque jamais",
@@ -8,10 +9,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "97d96048-b02a-4041-8d6a-906b8e168ed2",
     "data": [
       {
         "text": "Rarement",
@@ -20,24 +21,24 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "a2e871b4-4925-46a2-92e0-83fe59dd63c4",
     "data": [
       {
         "text": "Parfois",
-        "meta": "@sys.location",
         "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "ee9fc024-e429-4abd-b756-20c97bc0cf68",
     "data": [
       {
         "text": "Souvent",
@@ -46,10 +47,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "3d393f5b-6b80-42cc-b46f-10e69b1b892b",
     "data": [
       {
         "text": "La plupart du temps",
@@ -58,7 +59,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   }
 ]

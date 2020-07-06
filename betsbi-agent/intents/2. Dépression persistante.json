@@ -8,52 +8,48 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "",
       "affectedContexts": [
         {
           "name": "11-Commencerconversation-followup",
+          "parameters": {},
           "lifespan": 5
         }
       ],
       "parameters": [
         {
           "id": "6be0424b-d3c2-4f0d-8026-a0d073aadbdd",
-          "name": "number",
           "required": false,
           "dataType": "@sys.number",
+          "name": "number",
           "value": "$number",
-          "defaultValue": "",
-          "isList": true,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": true
         },
         {
           "id": "0e8d5542-e210-4aa3-81c3-a99d049a15d3",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

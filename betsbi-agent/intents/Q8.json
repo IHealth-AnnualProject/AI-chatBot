@@ -14,44 +14,39 @@
       "affectedContexts": [
         {
           "name": "Q8-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "d480d8f5-b48b-48f5-83c0-e7f821e57cc8",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "8. Je me fâche si je n\u0027atteins pas les objectifs que je me suis fixés."
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "8. Je me fâche si je n\u0027atteins pas les objectifs que je me suis fixés."
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

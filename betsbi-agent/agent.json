@@ -4,7 +4,9 @@
   "shortDescription": "",
   "examples": "",
   "linkToDocs": "",
-  "displayName": "betsbi-agent",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
@@ -13,7 +15,9 @@
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
-    "endIntentIds": [],
+    "endIntentIds": [
+      "f7ec2bd5-e425-40a6-ac51-3daaed814d81"
+    ],
     "oAuthLinking": {
       "required": false,
       "providerId": "",
@@ -46,9 +50,7 @@
   "supportedLanguages": [
     "fr"
   ],
-  "enableOnePlatformApi": true,
   "onePlatformApiVersion": "v2",
-  "secondaryKey": "47a670016f724d85a8f59d542d6609ea",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
   "knowledgeServiceConfidenceAdjustment": -0.4,

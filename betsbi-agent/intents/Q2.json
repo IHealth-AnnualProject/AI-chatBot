@@ -14,44 +14,39 @@
       "affectedContexts": [
         {
           "name": "Q2-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "5d7425c3-6a55-4289-8d72-faac9ea70007",
-          "name": "location",
+          "id": "d993ba2f-30bb-4834-b30b-c44ca679354c",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "2. Je me sens agité ou agité (je marche, je suis incapable de rester calme ou j\u0027ai besoin de bouger constamment)."
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "2. Je me sens agité (je marche, je suis incapable de rester calme ou j\u0027ai besoin de bouger constamment)."
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

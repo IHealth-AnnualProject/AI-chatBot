@@ -14,44 +14,39 @@
       "affectedContexts": [
         {
           "name": "Q3-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "3b3a0456-2ada-40a2-b98c-852efae29761",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "3. Je me sens épuisé."
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "3. Je me sens épuisé."
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

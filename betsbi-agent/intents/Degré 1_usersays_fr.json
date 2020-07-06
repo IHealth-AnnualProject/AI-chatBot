@@ -1,5 +1,6 @@
 [
   {
+    "id": "6a0d7988-c706-4c32-9f3f-16c74f31572b",
     "data": [
       {
         "text": "Je suis ",
@@ -7,8 +8,8 @@
       },
       {
         "text": "un",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -18,10 +19,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "4000d69f-00f3-4faa-bde6-25ba180fe8ef",
     "data": [
       {
         "text": "Je suis triste",
@@ -30,10 +31,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "888865be-2b66-48a5-943d-bd0f294bdf8f",
     "data": [
       {
         "text": "J\u0027ai un peu le cafard",
@@ -42,7 +43,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   }
 ]

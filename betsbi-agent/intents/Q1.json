@@ -14,52 +14,45 @@
       "affectedContexts": [
         {
           "name": "11-Lancerdiagnostic-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "6ce61791-b130-4b41-a64a-fabbd989451a",
-          "name": "lancer-diagnostic",
           "required": false,
           "dataType": "@lancer-diagnostic",
+          "name": "lancer-diagnostic",
           "value": "$lancer-diagnostic",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "Je souhaite cerner au mieux vos attentes. Pour cela je vous propose de commencer par me répondre aux suivantes questions dans un degré entre :\n - La plupart du temps \n- Souvent \n- Parfois \n- Rarement \n- Presque jamais\n\n1. Je me sens triste."
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "Je souhaite cerner au mieux vos attentes. Pour cela je vous propose de commencer par me répondre aux suivantes questions dans un degré entre :\n - La plupart du temps \n- Souvent \n- Parfois \n- Rarement \n- Presque jamais\n\n1. Je me sens triste."
         },
         {
-          "type": "4",
-          "title": "",
-          "payload": {},
-          "textToSpeech": "",
+          "type": 4,
           "lang": "fr",
-          "condition": ""
+          "condition": "",
+          "payload": {}
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],

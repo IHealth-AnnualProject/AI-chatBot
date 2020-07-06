@@ -9,7 +9,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -21,8 +20,8 @@
       },
       {
         "text": "sens",
-        "meta": "@sys.geo-city",
         "alias": "geo-city",
+        "meta": "@sys.geo-city",
         "userDefined": false
       },
       {
@@ -32,7 +31,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -45,7 +43,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -57,8 +54,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -67,8 +64,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -78,7 +75,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -90,8 +86,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -101,7 +97,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -114,7 +109,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -127,7 +121,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -139,8 +132,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -150,7 +143,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -163,7 +155,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -175,8 +166,8 @@
       },
       {
         "text": "énergie",
-        "meta": "@sys.location",
         "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       },
       {
@@ -186,7 +177,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -199,7 +189,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -211,14 +200,13 @@
       },
       {
         "text": "dormir.",
-        "meta": "@sys.location",
         "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
@@ -231,7 +219,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   }
 ]

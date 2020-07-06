@@ -1,5 +1,6 @@
 [
   {
+    "id": "b0a6eecb-c7a1-49dc-b544-ddb9e64406e8",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -7,8 +8,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -17,8 +18,8 @@
       },
       {
         "text": "occasions",
-        "meta": "@sys.location",
         "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       },
       {
@@ -28,10 +29,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "82222e8a-a694-4906-a2f6-093ac0fdeb80",
     "data": [
       {
         "text": "J\u0027ai du mal à fonctionner au travail",
@@ -40,10 +41,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "92c62c8f-3b39-4bfe-89d4-1c2d05a1225b",
     "data": [
       {
         "text": "J\u0027ai du mal à fonctionner à ",
@@ -51,17 +52,17 @@
       },
       {
         "text": "l\u0027école",
-        "meta": "@sys.location",
         "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "5e87637b-e92f-4e8b-91f4-c512116e79b5",
     "data": [
       {
         "text": "J\u0027ai des problèmes de concentration et de mémoire",
@@ -70,10 +71,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "bd00affd-64ba-45b6-8314-0774195277d8",
     "data": [
       {
         "text": "J\u0027ai des changements dans les habitudes de sommeil ou ",
@@ -81,8 +82,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -91,17 +92,17 @@
       },
       {
         "text": "énergie",
-        "meta": "@sys.location",
         "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "583d8e51-d5a7-439a-9fd5-de0aac40b250",
     "data": [
       {
         "text": "J\u0027ai des changements d\u0027appétit",
@@ -110,10 +111,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "54922b45-bf44-41f4-8948-5a18f5abfa1b",
     "data": [
       {
         "text": "Je manque d\u0027intérêt pour les choses que j\u0027ai appréciées",
@@ -122,10 +123,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "f41d7e1c-9a36-40b9-9404-7ab006462b34",
     "data": [
       {
         "text": "J\u0027ai ",
@@ -133,8 +134,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -143,8 +144,8 @@
       },
       {
         "text": "un",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -154,10 +155,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "dee2cf5c-b4b7-446a-b2ab-7f805dce3add",
     "data": [
       {
         "text": "Je ressens ",
@@ -165,8 +166,8 @@
       },
       {
         "text": "une",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -175,8 +176,8 @@
       },
       {
         "text": "un",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -186,10 +187,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   },
   {
+    "id": "f6c67126-0c36-44b1-88f4-41c885ab6278",
     "data": [
       {
         "text": "Je ressens ",
@@ -197,8 +198,8 @@
       },
       {
         "text": "un",
-        "meta": "@sys.number",
         "alias": "number",
+        "meta": "@sys.number",
         "userDefined": false
       },
       {
@@ -208,7 +209,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "lang": "fr",
     "updated": 0
   }
 ]

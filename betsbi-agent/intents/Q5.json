@@ -14,44 +14,39 @@
       "affectedContexts": [
         {
           "name": "Q3-custom-custom-followup",
+          "parameters": {},
           "lifespan": 2
         }
       ],
       "parameters": [
         {
           "id": "d4446104-d7f8-424d-8657-ec025e2cff2b",
-          "name": "location",
           "required": false,
           "dataType": "@sys.location",
+          "name": "location",
           "value": "$location",
-          "defaultValue": "",
-          "isList": false,
-          "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
-          "outputDialogContexts": []
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "fr",
-          "speech": [
-            "5. Quand je me réveille le matin, j\u0027ai l\u0027impression qu\u0027il n\u0027y a rien à attendre."
-          ],
-          "condition": ""
+          "condition": "",
+          "speech": "5. Quand je me réveille le matin, j\u0027ai l\u0027impression qu\u0027il n\u0027y a rien à attendre."
         },
         {
-          "type": "0",
-          "title": "",
-          "textToSpeech": "",
+          "type": 0,
           "lang": "en",
-          "condition": ""
+          "condition": "",
+          "speech": []
         }
       ],
+      "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
