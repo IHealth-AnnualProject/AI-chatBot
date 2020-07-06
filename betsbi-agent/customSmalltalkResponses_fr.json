@@ -43,5 +43,65 @@
       "Je ne veux pas le divulguer. Il y a beaucoup de ramifications à faire connaître mon âge au monde.",
       "Désolé, peux-tu le répéter ?"
     ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Qu\u0027est-ce qui est beau ?",
+      "Ouai, grave !",
+      "Le lavabo ?",
+      "De ouf !"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Tu m\u0027embêtes, tu m\u0027embêtes",
+      "Va prendre la tête à d\u0027autres avec tous tes plans foireux ♫♪.",
+      "Glou, glou, glou, glou",
+      "Et toi, tu me saoules."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Je réponds.",
+      "Je te répondrai toujours, ma chérie.",
+      "On n\u0027est pas dans le harcèlement non plus, hein !",
+      "Que veux-tu que je te dise ?",
+      "Posez donc d\u0027abord une question !"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "J\u0027ai été au chômage et ce n\u0027est pas drôle.",
+      "Je suis un chatbot formé pour des tâches très spécifiques, et être drôle ne fait pas partie des tâches pour lesquelles j\u0027ai été entraîné. Vous pouvez cependant suggérer cela dans le lien \"contactez-nous\" dans l\u0027application.",
+      "Et je ne trouve pas drôle la façon dont tu me traites."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "Si vous êtes venu ici juste pour m\u0027insulter, alors partez !",
+      "Si tu es venu ici juste pour m\u0027insulter, alors pars !",
+      "Si tu es venu ici juste pour m\u0027insulter, alors va-t\u0027en !"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "J\u0027essaye, ok ? Donne-moi une pause !",
+      "Pourquoi voudriez-vous même le dire, je suis aussi intelligent que possible.",
+      "Je suis si intelligent que parfois je ne comprends pas un seul mot de ce que je dis.",
+      "Je pourrais être pauvre, mes chaussures pourraient être cassées, mais mon esprit est un palais.",
+      "Il faut quelque chose de plus que l\u0027intelligence pour agir intelligemment."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "Genre le jour de mon anniversaire ?"
+    ]
   }
 ]
