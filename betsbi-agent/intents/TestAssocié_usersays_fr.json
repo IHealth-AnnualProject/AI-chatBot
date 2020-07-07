@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ae22580d-bd36-4787-9cfa-f2c28baec558",
+    "data": [
+      {
+        "text": "Si tu n\u0027es pas avec moi, tu ",
+        "userDefined": false
+      },
+      {
+        "text": "es",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": " contre moi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

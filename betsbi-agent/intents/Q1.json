@@ -20,7 +20,7 @@
       ],
       "parameters": [
         {
-          "id": "6ce61791-b130-4b41-a64a-fabbd989451a",
+          "id": "400eebd6-43fb-4542-b5e4-39a2d7740d72",
           "required": false,
           "dataType": "@lancer-diagnostic",
           "name": "lancer-diagnostic",
@@ -57,7 +57,7 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],

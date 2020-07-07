@@ -1,0 +1,48 @@
+{
+  "id": "f53c6732-9114-457e-9308-7c0fa48b73bc",
+  "parentId": "b7525e8e-959a-4402-9897-8cd175e1e03a",
+  "rootParentId": "b7525e8e-959a-4402-9897-8cd175e1e03a",
+  "name": "Test2",
+  "auto": true,
+  "contexts": [
+    "Test1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Test1.Test1-custom",
+      "affectedContexts": [
+        {
+          "name": "Test2-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Bravo ! Tu as déclenché le Test 2 !"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
