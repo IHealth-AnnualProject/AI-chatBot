@@ -1,0 +1,43 @@
+[
+  {
+    "value": "mal",
+    "synonyms": [
+      "mal",
+      "difficile",
+      "difficilement",
+      "malaisément",
+      "défavorablement",
+      "maladroitement",
+      "médiocrement",
+      "défectueusement"
+    ]
+  },
+  {
+    "value": "très mal",
+    "synonyms": [
+      "très mal"
+    ]
+  },
+  {
+    "value": "affreux",
+    "synonyms": [
+      "affreux",
+      "abominable",
+      "désolant",
+      "effroyable",
+      "épouvantable",
+      "dégoûtant",
+      "détestable",
+      "ennuyeux",
+      "ignoble",
+      "horrifiant",
+      "misérable",
+      "mauvais",
+      "déplaisant",
+      "disgracieux",
+      "hideux",
+      "mal fichu",
+      "triste"
+    ]
+  }
+]

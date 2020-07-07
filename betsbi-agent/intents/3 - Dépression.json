@@ -13,13 +13,26 @@
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "ec2cfdb9-16e6-42c8-870c-f5af23b8c353",
+          "required": false,
+          "dataType": "@negative_qualifier",
+          "name": "negative_qualifier",
+          "value": "$negative_qualifier",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "Désolé d\u0027entendre ça. Dis-moi, depuis combien de temps as-tu commencé à ressentir cela ?"
         },
         {
           "type": 0,

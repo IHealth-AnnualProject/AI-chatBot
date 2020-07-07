@@ -1,0 +1,94 @@
+[
+  {
+    "id": "22b7f072-dc51-4ff0-964a-f835e9f5e6b1",
+    "data": [
+      {
+        "text": "Vraiment pas bien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5073c70-c2a9-42b3-bae8-b19cf3af019c",
+    "data": [
+      {
+        "text": "Pire impossible",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c0c458f-a028-4ac8-8a2d-1fe9713d85a4",
+    "data": [
+      {
+        "text": "Tout va ",
+        "userDefined": false
+      },
+      {
+        "text": "mal",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e58f7a3d-53a1-4070-8953-0ac9530d7bb3",
+    "data": [
+      {
+        "text": "C\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "affreux",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b896c14-d0d9-422f-82c2-b38cddc4ca78",
+    "data": [
+      {
+        "text": "Je vais ",
+        "userDefined": false
+      },
+      {
+        "text": "mal",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b83ba03-03dd-4bea-9bde-601988d75864",
+    "data": [
+      {
+        "text": "Mal",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

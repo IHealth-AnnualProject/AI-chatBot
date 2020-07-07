@@ -1,0 +1,9 @@
+{
+  "id": "9d0f9d34-27a3-4ec4-bbec-fcbfadb16451",
+  "name": "average_qualifier",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
