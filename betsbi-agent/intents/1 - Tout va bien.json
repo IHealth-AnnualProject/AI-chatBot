@@ -1,0 +1,56 @@
+{
+  "id": "e96bd250-90cb-45a0-91d1-effecb4b4684",
+  "parentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "1 - Tout va bien",
+  "auto": true,
+  "contexts": [
+    "11-Commencerconversation-followup",
+    "11-Commencerconversation-followup-2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "11-Commencerconversation.11-Commencerconversation-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f7f8c804-2cf5-42fc-8305-7a70948f3ac2",
+          "required": false,
+          "dataType": "@positive_qualifier",
+          "name": "positive_qualifier",
+          "value": "$positive_qualifier",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Je suis content d\u0027apprendre que ça va bien pour toi. Dans ce cas, bonne continuation !"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

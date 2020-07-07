@@ -11,11 +11,16 @@
           "name": "11-Commencerconversation-followup",
           "parameters": {},
           "lifespan": 2
+        },
+        {
+          "name": "11-Commencerconversation-followup-2",
+          "parameters": {},
+          "lifespan": 2
         }
       ],
       "parameters": [
         {
-          "id": "369f84d2-cb4e-4ebd-9d5f-caa6f276d4ba",
+          "id": "8bcc58c4-8822-49fa-89f0-28e7d73c18d1",
           "required": false,
           "dataType": "@Greeting",
           "name": "Greeting",
@@ -32,7 +37,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésite pas à contacter un psychologue si tu cherches l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de t\u0027aider le mieux possible. Pour commencer, demande moi de lancer un diagnose. Ou décris ta situation."
+          "speech": "Bonjour, je suis le chatbot de BetsBi. Je suis là pour t\u0027aider, mais sache que je ne suis qu\u0027un robot. N\u0027hésite pas à contacter un psychologue si tu cherches l\u0027aide d\u0027un professionnel. J’essaierai néanmoins de t\u0027aider le mieux possible. Pour commencer, demande moi de lancer un diagnose. Ou aide-moi à comprendre ta situation, en commençant par me dire comment tu te sens en ce moment."
         }
       ],
       "defaultResponsePlatforms": {},

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "7820a79c-2e82-4aff-bf52-bc48bfc686fd",
+    "data": [
+      {
+        "text": "Magnifique",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3eef56dd-125c-4a7e-bbcf-b3f2e42fa33f",
+    "data": [
+      {
+        "text": "Superbe",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2052f85d-fc53-4c19-bb66-2e338c0b5209",
+    "data": [
+      {
+        "text": "Parfait !",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "282029f5-914c-47c4-afbf-17104ba11ec6",
+    "data": [
+      {
+        "text": "Très bien",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c838d968-2b11-4f77-9831-fddba257c458",
+    "data": [
+      {
+        "text": "Super",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c584239-7001-4df8-b28f-f2dd09272e9b",
+    "data": [
+      {
+        "text": "Nickel",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b8e7a16-bea8-4b79-b41b-97d16c8fd4f4",
+    "data": [
+      {
+        "text": "La forme",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "170942b3-19fc-404b-b423-c28626bd0cff",
+    "data": [
+      {
+        "text": "En fait, ",
+        "userDefined": false
+      },
+      {
+        "text": "tout va bien",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14e17a5d-c464-42dd-84ad-c2417de628f8",
+    "data": [
+      {
+        "text": "Ça va",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a89febc9-4259-45ad-af55-ff279eb7dccf",
+    "data": [
+      {
+        "text": "Tout va bien",
+        "alias": "positive_qualifier",
+        "meta": "@positive_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
