@@ -1,0 +1,67 @@
+{
+  "id": "b73a0f10-7a7a-4d16-8216-f6af9f53676f",
+  "parentId": "b0f7b834-e0a0-42fe-b6f3-af7946b8ba4f",
+  "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "2 - Ça fait quelques temps",
+  "auto": true,
+  "contexts": [
+    "3-Dpression-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b1248905-b775-4859-ac29-afb78b0533ae",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e84b48a7-32a3-4432-bb95-78af7fc6b7f1",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "D\u0027accord, donne-moi un instant et j\u0027écrirai la suite pour cette intention."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

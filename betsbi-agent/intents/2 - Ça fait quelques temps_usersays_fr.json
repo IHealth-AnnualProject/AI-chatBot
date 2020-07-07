@@ -1,0 +1,154 @@
+[
+  {
+    "id": "394ac110-9031-40fd-a8aa-054a708104b1",
+    "data": [
+      {
+        "text": "Ça fait ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " mois",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30ea6174-8cbe-45b0-bd54-74550e19c2af",
+    "data": [
+      {
+        "text": "Ça fait quelques mois",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74a540c4-9733-4986-b206-b3d30d432e2c",
+    "data": [
+      {
+        "text": "Ça fait au ",
+        "userDefined": false
+      },
+      {
+        "text": "moins un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " mois",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8b64533-2c02-49e8-a766-d0e52acf2852",
+    "data": [
+      {
+        "text": "Ça",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " fait ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " mois",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1311cd9-ee61-45b3-875d-b21e70a6fc9e",
+    "data": [
+      {
+        "text": "Ça fait ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " semaines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "842624ec-7d36-417e-94e0-50d0a2bf44af",
+    "data": [
+      {
+        "text": "Ça fait au ",
+        "userDefined": false
+      },
+      {
+        "text": "moins 2",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " semaines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a5376ec-7e58-4c0d-b147-edf7e5e267e3",
+    "data": [
+      {
+        "text": "Ça fait quelques semaines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc96e178-9ee7-407c-8473-96a5447a2b43",
+    "data": [
+      {
+        "text": "Ça fait plusieurs semaines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

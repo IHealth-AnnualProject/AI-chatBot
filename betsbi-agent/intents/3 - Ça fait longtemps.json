@@ -1,0 +1,79 @@
+{
+  "id": "e2a32c90-3bcb-4107-9d44-b156d524e628",
+  "parentId": "b0f7b834-e0a0-42fe-b6f3-af7946b8ba4f",
+  "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "3 - Ça fait longtemps",
+  "auto": true,
+  "contexts": [
+    "3-Dpression-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0c5dabcb-cade-4510-8e11-5d86f15e8c82",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dc2b8408-5d05-4e02-9197-9f68a225ea46",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a431b1b4-d837-469e-bdb8-2a137ed95e6a",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "D\u0027accord, donne-moi un peu plus de temps et j\u0027écrirai la suite pour cette intention. (Après avoir fini celle de \"ça fait quelques temps\")"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "D\u0027accord, donne-moi un peu plus de temps et j\u0027écrirai la suite pour cette intention. (Après avoir fini celle de \"ça fait quelques temps\")"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

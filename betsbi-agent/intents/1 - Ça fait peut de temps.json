@@ -1,31 +1,24 @@
 {
-  "id": "b0f7b834-e0a0-42fe-b6f3-af7946b8ba4f",
-  "parentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "id": "2ad69a60-0272-41c1-ae42-4f2d025dd2b1",
+  "parentId": "b0f7b834-e0a0-42fe-b6f3-af7946b8ba4f",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "3 - Dépression",
+  "name": "1 - Ça fait peut de temps",
   "auto": true,
   "contexts": [
-    "11-Commencerconversation-followup",
-    "11-Commencerconversation-followup-2"
+    "3-Dpression-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom",
-      "affectedContexts": [
-        {
-          "name": "3-Dpression-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2",
+      "affectedContexts": [],
       "parameters": [
         {
-          "id": "ec2cfdb9-16e6-42c8-870c-f5af23b8c353",
+          "id": "9caed057-3f79-44b2-ac4f-77490aabbe4d",
           "required": false,
-          "dataType": "@negative_qualifier",
-          "name": "negative_qualifier",
-          "value": "$negative_qualifier",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -44,7 +37,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": "Désolé d\u0027entendre ça. Dis-moi, depuis combien de temps as-tu commencé à ressentir cela ?"
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},

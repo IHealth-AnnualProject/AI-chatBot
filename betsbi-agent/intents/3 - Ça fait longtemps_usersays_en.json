@@ -1,0 +1,120 @@
+[
+  {
+    "id": "a25a5e11-084e-4ea1-8cb5-a1c7c53dc87a",
+    "data": [
+      {
+        "text": "Ça",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " fait ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20bf1d1e-95cc-4464-ba39-9ffbd1a57cef",
+    "data": [
+      {
+        "text": "Ça fait des années",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78e7e63a-b966-4715-9c04-5030b94dfbb5",
+    "data": [
+      {
+        "text": "Ça fait ",
+        "userDefined": false
+      },
+      {
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abdabce1-419d-4580-baf2-a63fcdcef157",
+    "data": [
+      {
+        "text": "Ça fait au moins ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " an",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec56d136-2e02-479d-8685-b9dcfc959bf2",
+    "data": [
+      {
+        "text": "Ça fait plus d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " an",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b610ddf1-5e1c-443f-9855-603cc784b9c5",
+    "data": [
+      {
+        "text": "Ça fait très longtemps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
