@@ -1,0 +1,218 @@
+[
+  {
+    "id": "a4d661c7-cb0f-45a3-b2e9-6cc683531e0b",
+    "data": [
+      {
+        "text": "re ",
+        "userDefined": false
+      },
+      {
+        "text": "salut",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "213ba86d-a9f2-4aa6-825f-e9433e28c97c",
+    "data": [
+      {
+        "text": "hola",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bef6ff75-0e67-4a41-bb60-2dbb8280bbda",
+    "data": [
+      {
+        "text": "resalut",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29caa747-4f88-4de6-af1f-e07b10e10fee",
+    "data": [
+      {
+        "text": "hé",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a489531f-9726-4e08-85bf-133ae251232b",
+    "data": [
+      {
+        "text": "coucou",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "434ec0f0-8eea-44ce-97ca-0071e2d04110",
+    "data": [
+      {
+        "text": "allo",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bdecb32-ec93-44cb-b37f-4912db70b85e",
+    "data": [
+      {
+        "text": "re ",
+        "userDefined": false
+      },
+      {
+        "text": "bonjour",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6137c0c4-61f6-4c49-9efa-ee508415a334",
+    "data": [
+      {
+        "text": "bonjour",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": false
+      },
+      {
+        "text": " à toi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf9e952e-038a-4596-ba92-77582fb2f5fe",
+    "data": [
+      {
+        "text": "salutations",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5af4cd5-3ab4-468a-a800-c386837992d4",
+    "data": [
+      {
+        "text": "Démarrer betsbi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53323bf5-46b0-4bfd-8fd3-12a14f57315e",
+    "data": [
+      {
+        "text": "Démarrer conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e8277cb-df36-412e-9cb5-82726952224b",
+    "data": [
+      {
+        "text": "Commencer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "328f6670-59e8-4d1a-a88d-8c8baf4c576b",
+    "data": [
+      {
+        "text": "Yo",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1795550-e24b-4de0-921d-112c659c80c1",
+    "data": [
+      {
+        "text": "Salut",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a567511-f734-4470-8fa3-5ec9803f734e",
+    "data": [
+      {
+        "text": "Bonjour",
+        "alias": "Greeting",
+        "meta": "@Greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

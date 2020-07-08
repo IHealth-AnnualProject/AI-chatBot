@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d8203655-78a9-4af6-819c-1d1213c19867",
+    "data": [
+      {
+        "text": "ça fait quelques jours",
+        "alias": "peu_de_temps",
+        "meta": "@peu_de_temps",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

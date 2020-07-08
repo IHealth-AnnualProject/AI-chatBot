@@ -8,13 +8,17 @@
   {
     "value": "Bonjour",
     "synonyms": [
-      "Bonjour"
+      "Bonjour",
+      "rebonjour",
+      "re bonjour",
+      "coucou"
     ]
   },
   {
     "value": "Salut",
     "synonyms": [
-      "Salut"
+      "Salut",
+      "hé"
     ]
   },
   {

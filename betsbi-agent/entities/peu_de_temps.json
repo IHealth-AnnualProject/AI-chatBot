@@ -1,0 +1,9 @@
+{
+  "id": "a8568989-c0da-43ed-b6cd-d2f065e2b520",
+  "name": "peu_de_temps",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

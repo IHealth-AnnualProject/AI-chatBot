@@ -1,6 +1,6 @@
 {
   "id": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "1.1 - Commencer conversation",
+  "name": "1 - Début conversation",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -20,7 +20,7 @@
       ],
       "parameters": [
         {
-          "id": "c037826c-c188-47c9-b8ee-725cfdbb8dbd",
+          "id": "3e6eda49-84b4-4012-943f-0057e4e7752e",
           "required": false,
           "dataType": "@Greeting",
           "name": "Greeting",

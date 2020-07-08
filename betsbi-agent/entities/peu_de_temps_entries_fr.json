@@ -1,0 +1,71 @@
+[
+  {
+    "value": "ça fait 1 jour",
+    "synonyms": [
+      "1 jour",
+      "depuis hier",
+      "ça fait un jour"
+    ]
+  },
+  {
+    "value": "ça fait 2 jours",
+    "synonyms": [
+      "ça fait 2 jours",
+      "ça fait deux jours",
+      "depuis avant-hier",
+      "depuis avant hier"
+    ]
+  },
+  {
+    "value": "ça fait 3 jours",
+    "synonyms": [
+      "ça fait 3 jours",
+      "ça fait trois jours"
+    ]
+  },
+  {
+    "value": "depuis lundi",
+    "synonyms": [
+      "depuis lundi",
+      "depuis mardi",
+      "depuis mercredi",
+      "depuis jeudi",
+      "depuis vendredi",
+      "depuis samedi",
+      "depuis dimanche",
+      "depuis lundi dernier",
+      "depuis mardi dernier",
+      "depuis mercredi dernier",
+      "depuis jeudi dernier",
+      "depuis vendredi dernier",
+      "depuis samedi dernier",
+      "depuis dimanche dernier"
+    ]
+  },
+  {
+    "value": "depuis ce weekend",
+    "synonyms": [
+      "depuis ce weekend",
+      "depuis ce we",
+      "depuis ce w-e",
+      "depuis le weekend dernier",
+      "depuis le we dernier",
+      "depuis le w-e dernier"
+    ]
+  },
+  {
+    "value": "ça fait quelques jours",
+    "synonyms": [
+      "ça fait quelques jours",
+      "ça fait plusieurs jours",
+      "ça fait 4 jours",
+      "ça fait 5 jours",
+      "ça fait 6 jours",
+      "ça fait 7 jours",
+      "ça fait 8 jours",
+      "ça fait 9 jours",
+      "ça fait 10 jours",
+      "ça fait une dizaine de jours"
+    ]
+  }
+]

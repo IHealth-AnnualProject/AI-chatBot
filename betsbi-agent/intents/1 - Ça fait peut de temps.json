@@ -14,11 +14,11 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "9caed057-3f79-44b2-ac4f-77490aabbe4d",
+          "id": "feab7e43-757a-479c-941e-2ff7298ef487",
           "required": false,
-          "dataType": "@sys.number",
-          "name": "number",
-          "value": "$number",
+          "dataType": "@peu_de_temps",
+          "name": "peu_de_temps",
+          "value": "$peu_de_temps",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -29,13 +29,13 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
           "speech": []
         }
