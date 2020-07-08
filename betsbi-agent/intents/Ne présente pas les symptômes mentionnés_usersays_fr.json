@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cd535bc9-3cd7-48bb-b749-20bfffaba2e9",
+    "data": [
+      {
+        "text": "Pas",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      },
+      {
+        "text": " exactement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "724c79d0-b0db-4fee-96af-d9d646eb260b",
+    "data": [
+      {
+        "text": "Pas",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tout à fait",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4883037b-2fc2-49d5-b7dd-55aaa203c1bc",
+    "data": [
+      {
+        "text": "Pas",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      },
+      {
+        "text": " vraiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "086b2cbf-1f4f-4051-94af-1c4d805cfa1a",
+    "data": [
+      {
+        "text": "Aucun des symptômes mentionnés",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "643eb510-eea5-4c1b-966c-5a4234262999",
+    "data": [
+      {
+        "text": "Non",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

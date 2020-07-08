@@ -1,0 +1,60 @@
+[
+  {
+    "id": "e4d63b34-d992-4274-a38c-4622e9c0d15e",
+    "data": [
+      {
+        "text": "Plusieurs parmi les symptômes mentionnés, ",
+        "userDefined": false
+      },
+      {
+        "text": "oui",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfe60233-3893-44a7-889d-f648b27be3a3",
+    "data": [
+      {
+        "text": "Beaucoup parmi les symptômes mentionnés, ",
+        "userDefined": false
+      },
+      {
+        "text": "oui",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18785a14-aad8-40a0-8e69-747ae47407e6",
+    "data": [
+      {
+        "text": "Oui",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

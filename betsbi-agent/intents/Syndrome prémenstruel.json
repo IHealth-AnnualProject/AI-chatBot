@@ -20,7 +20,7 @@
       ],
       "parameters": [
         {
-          "id": "69b97924-6731-42dd-83ce-7f288b53a7c9",
+          "id": "2ab10557-35d5-4ed8-b207-ea3742e7e29c",
           "required": false,
           "dataType": "@SPM",
           "name": "spm",
@@ -37,7 +37,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "Je vois, as-tu ressenti des symptômes tels qu\u0027une sensibilité au niveau des seins, des maux de ventre ou des crampes abdominales, constipation, diarrhée, des bouffées de chaleurs, des douleurs lombaires, des maux de tête, une pesanteur des membres inférieurs, des douleurs musculaires, ou une modification de l\u0027appétit ?"
         },
         {
           "type": 0,

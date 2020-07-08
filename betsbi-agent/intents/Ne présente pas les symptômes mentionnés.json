@@ -12,7 +12,20 @@
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom-2.Syndromeprmenstruel-custom",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "1b8ede69-07a2-45a6-b12a-2a0ae31b3fd2",
+          "required": false,
+          "dataType": "@negation",
+          "name": "negation",
+          "value": "$negation",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
