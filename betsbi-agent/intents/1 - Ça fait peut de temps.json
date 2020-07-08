@@ -11,10 +11,16 @@
     {
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "1-afaitpeutdetemps-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
-          "id": "feab7e43-757a-479c-941e-2ff7298ef487",
+          "id": "0c60fda8-8150-44b2-9f7b-ba66405bc251",
           "required": false,
           "dataType": "@peu_de_temps",
           "name": "peu_de_temps",
@@ -31,7 +37,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "D\u0027accord. Tout d\u0027abord je dois dire que le fait que tu sois en train de chercher de l\u0027aide est un bon signe, ça veut dire que tu cherches activement à surmonter cette situation. Pour continuer, pourrais tu me dire s\u0027il y a eu un événement particulier qui s\u0027est produit récemment et qui t\u0027a fait te sentir comme ça ?"
         },
         {
           "type": 0,
