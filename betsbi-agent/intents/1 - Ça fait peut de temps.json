@@ -20,11 +20,23 @@
       ],
       "parameters": [
         {
-          "id": "0c60fda8-8150-44b2-9f7b-ba66405bc251",
+          "id": "1d025f9f-bdf7-4c7a-a287-8d4a40a857d6",
           "required": false,
           "dataType": "@peu_de_temps",
           "name": "peu_de_temps",
           "value": "$peu_de_temps",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "2fd9b361-315e-4b10-b4d8-528d5746c9a1",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],

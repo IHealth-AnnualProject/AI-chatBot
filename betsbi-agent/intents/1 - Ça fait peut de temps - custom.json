@@ -1,8 +1,8 @@
 {
-  "id": "1c4657f9-b4d3-4e0f-a5b0-77059c6c1666",
+  "id": "f6cbde03-fdf4-4eeb-94a8-ead7223dee93",
   "parentId": "2ad69a60-0272-41c1-ae42-4f2d025dd2b1",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "1 - Ça fait peut de temps - custom-2",
+  "name": "1 - Ça fait peut de temps - custom",
   "auto": true,
   "contexts": [
     "1-afaitpeutdetemps-followup"
@@ -10,19 +10,19 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom-2",
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
           "speech": []
         }

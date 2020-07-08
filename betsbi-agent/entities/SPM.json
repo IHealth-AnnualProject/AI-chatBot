@@ -1,0 +1,9 @@
+{
+  "id": "d4c3fc63-cedc-4aeb-ac0f-258e9315ec70",
+  "name": "SPM",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

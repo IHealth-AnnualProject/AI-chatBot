@@ -1,5 +1,67 @@
 [
   {
+    "id": "a29847e5-fc26-46a9-82f0-e887bbd593dd",
+    "data": [
+      {
+        "text": "Depuis peu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6a383df-de2d-4829-a892-b736f3bf24ea",
+    "data": [
+      {
+        "text": "Depuis ",
+        "userDefined": false
+      },
+      {
+        "text": "la semaine dernière",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8e3f53f-9fb3-4b71-a647-d50b415cd417",
+    "data": [
+      {
+        "text": "Depuis hier",
+        "alias": "peu_de_temps",
+        "meta": "@peu_de_temps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63d3617a-60dc-4645-aba6-64209bf38475",
+    "data": [
+      {
+        "text": "Ça fait vraiment ",
+        "userDefined": false
+      },
+      {
+        "text": "peu de temps",
+        "alias": "peu_de_temps",
+        "meta": "@peu_de_temps",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "d8203655-78a9-4af6-819c-1d1213c19867",
     "data": [
       {

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "a53b0b66-9bd6-4c50-96a3-2e927428295d",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dépression prémenstruelle",
+        "alias": "spm",
+        "meta": "@SPM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a70b785-e084-4bdd-94b9-b4952091ace8",
+    "data": [
+      {
+        "text": "Je crois avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dépression prémenstruelle",
+        "alias": "spm",
+        "meta": "@SPM",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a59bab0-ac61-4c86-ac3e-827f22a5f7c3",
+    "data": [
+      {
+        "text": "C\u0027est à cause de ",
+        "userDefined": false
+      },
+      {
+        "text": "mes règles",
+        "alias": "spm",
+        "meta": "@SPM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "910ca4e3-c057-440c-851b-91b6aa6694e4",
+    "data": [
+      {
+        "text": "Je crois que c\u0027est lié à ",
+        "userDefined": false
+      },
+      {
+        "text": "mes règles",
+        "alias": "spm",
+        "meta": "@SPM",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
