@@ -11,7 +11,13 @@
     {
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom-2",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "Syndromeprmenstruel-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "69b97924-6731-42dd-83ce-7f288b53a7c9",

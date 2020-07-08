@@ -1,0 +1,9 @@
+{
+  "id": "f2cd58ac-417a-4640-9f95-76fd9a2105a6",
+  "name": "affirmation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
