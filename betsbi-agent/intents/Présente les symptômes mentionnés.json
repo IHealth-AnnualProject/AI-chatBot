@@ -14,7 +14,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "621f1164-cd4a-4ef4-889e-5a6240ef2e52",
+          "id": "e366a257-a083-4f85-afdf-63f14fb1ab25",
           "required": false,
           "dataType": "@affirmation",
           "name": "affirmation",
@@ -31,7 +31,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "D\u0027accord, donc il s\u0027agit effectivement du syndrome prémenstruel. Ne vous inquiétez pas trop, c\u0027est plus que courant et il est naturellement destiné à disparaître. Néanmoins, des traitements sont parfois nécessaires pour passer plus sereinement cette période. Voici quelques actions simples que tu peux effectuer pour réduire les symptômes :\n\nDiminuer la consommation de produits contenant de la caféine\n\nDiminuer la consommation de produits contenant du sucre\n\nRéduire fortement la consommation d\u0027alcool\n\nFavoriser les repas légers et pauvres en sel\n\nLimiter le nombre de cigarettes par jour voire arrêter complètement\n\nFaire régulièrement de l\u0027exercice physique  : cela permet également de se détendre, de moins se focaliser sur ses symptômes et de diminuer l\u0027anxiété. Natation, marche, vélo, gymnastique peuvent aider à se détendre pendant cette période. L\u0027activité physique permettant ainsi de diminuer les manifestations de tension et irritabilité.\n\nJ\u0027espère que cela puisse t\u0027être utile, et si tu as d\u0027autres problèmes et que tu penses que je peux te donner quelques conseils, n\u0027hésite pas à reprendre le chat en tapant \"démarrer betsbi\"."
         },
         {
           "type": 0,

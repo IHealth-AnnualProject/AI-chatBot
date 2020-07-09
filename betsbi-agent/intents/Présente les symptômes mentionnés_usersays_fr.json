@@ -1,5 +1,55 @@
 [
   {
+    "id": "bd941ee9-d6f5-4e34-82bd-25ead81d9218",
+    "data": [
+      {
+        "text": "Pas toutes, mais ",
+        "userDefined": false
+      },
+      {
+        "text": "oui",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16292bb4-34b9-4b89-96e4-50cdbf71170f",
+    "data": [
+      {
+        "text": "Oui",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      },
+      {
+        "text": ", en effet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73213a73-b0b7-45d0-98a9-32aed825bd03",
+    "data": [
+      {
+        "text": "Tout à fait",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "e4d63b34-d992-4274-a38c-4622e9c0d15e",
     "data": [
       {

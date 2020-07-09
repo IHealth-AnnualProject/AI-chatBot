@@ -14,7 +14,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "1b8ede69-07a2-45a6-b12a-2a0ae31b3fd2",
+          "id": "a528b300-f745-44a9-82d2-6c5bcf9adaba",
           "required": false,
           "dataType": "@negation",
           "name": "negation",
@@ -31,7 +31,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "D\u0027accord, dans ce cas-là il est peu probable que tu souffres d\u0027un syndrome prémenstruel. Si tu penses que quelque chose d\u0027autre peut vous déranger en ce moment, recommence depuis le début le diagnostic du chatbot en tapant \"commencer betsbi\" ou l\u0027une des salutations habituelles"
         },
         {
           "type": 0,
