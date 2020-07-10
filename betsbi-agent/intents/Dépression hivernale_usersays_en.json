@@ -3,8 +3,14 @@
     "id": "a4bda9dd-9945-4dca-901d-268fb3a8da35",
     "data": [
       {
-        "text": "Quand je me réveille, il fait nuit",
+        "text": "Quand je me réveille, ",
         "userDefined": false
+      },
+      {
+        "text": "il fait nuit",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
@@ -15,8 +21,14 @@
     "id": "2b222fbe-a9b5-4ae1-a036-704ca768c6df",
     "data": [
       {
-        "text": "Quand je sors du travail, il fait nuit",
+        "text": "Quand je sors du travail, ",
         "userDefined": false
+      },
+      {
+        "text": "il fait nuit",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
@@ -28,7 +40,9 @@
     "data": [
       {
         "text": "Il fait trop sombre",
-        "userDefined": false
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
@@ -39,7 +53,13 @@
     "id": "5e552091-22e0-422e-8c8a-ea778fd490a0",
     "data": [
       {
-        "text": "Il fait sombre en permanence",
+        "text": "Il fait sombre",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": true
+      },
+      {
+        "text": " en permanence",
         "userDefined": false
       }
     ],
@@ -60,7 +80,17 @@
         "userDefined": false
       },
       {
-        "text": " et nuit tout le temps",
+        "text": " et ",
+        "userDefined": false
+      },
+      {
+        "text": "nuit",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": true
+      },
+      {
+        "text": " tout le temps",
         "userDefined": false
       }
     ],
@@ -77,8 +107,9 @@
       },
       {
         "text": "froid",
-        "meta": "@sys.ignore",
-        "userDefined": false
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": true
       }
     ],
     "isTemplate": false,
@@ -94,8 +125,9 @@
       },
       {
         "text": "froid",
-        "meta": "@sys.ignore",
-        "userDefined": false
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": true
       }
     ],
     "isTemplate": false,

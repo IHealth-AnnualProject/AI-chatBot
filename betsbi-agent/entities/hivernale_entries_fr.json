@@ -3,28 +3,33 @@
     "value": "hiver",
     "synonyms": [
       "hiver",
-      "l\u0027hiver"
+      "l\u0027hiver",
+      "froid",
+      "frimas",
+      "hibernation",
+      "hibernage"
     ]
   },
   {
-    "value": "été",
+    "value": "sombre",
     "synonyms": [
-      "été",
-      "l\u0027été"
-    ]
-  },
-  {
-    "value": "printemps",
-    "synonyms": [
-      "le printemps",
-      "printemps"
-    ]
-  },
-  {
-    "value": "automne",
-    "synonyms": [
-      "l\u0027automne",
-      "automne"
+      "sombre",
+      "nuit",
+      "soir",
+      "noir",
+      "manque de soleil",
+      "peu de soleil",
+      "pas de soleil",
+      "pas assez de soleil",
+      "manque de lumière",
+      "peu de lumière",
+      "pas de lumière",
+      "pas assez de lumière",
+      "manque d\u0027ensoleillement",
+      "peu d\u0027ensoleillement",
+      "pas d\u0027ensoleillement",
+      "pas assez d\u0027ensoleillement",
+      "obscurité"
     ]
   }
 ]

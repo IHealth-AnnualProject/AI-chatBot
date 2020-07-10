@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ac1d92d5-581a-4dbb-a4f6-e9886fbd6f81",
+    "data": [
+      {
+        "text": "La ",
+        "userDefined": false
+      },
+      {
+        "text": "manque de soleil",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": false
+      },
+      {
+        "text": " me déprime",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "405f1073-e8be-4830-999a-c658f6f324de",
+    "data": [
+      {
+        "text": "Il me ",
+        "userDefined": false
+      },
+      {
+        "text": "manque de soleil",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d957fc4-1af5-4db2-8514-ef2b41229911",
+    "data": [
+      {
+        "text": "Il fait ",
+        "userDefined": false
+      },
+      {
+        "text": "nuit",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "alias": "language",
+        "meta": "@sys.language",
+        "userDefined": false
+      },
+      {
+        "text": " permanence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "292e5745-8312-406c-bc25-87943fd69b63",
+    "data": [
+      {
+        "text": "Il fait trop ",
+        "userDefined": false
+      },
+      {
+        "text": "froid",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8694328d-cb4d-44e1-9abd-01a74ecae3ce",
+    "data": [
+      {
+        "text": "Il n\u0027y a que très ",
+        "userDefined": false
+      },
+      {
+        "text": "peu de lumière",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e594195e-f772-4a02-8b35-3f0d347b74dd",
+    "data": [
+      {
+        "text": "Il n\u0027y a ",
+        "userDefined": false
+      },
+      {
+        "text": "pas de lumière",
+        "alias": "hivernale",
+        "meta": "@hivernale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
