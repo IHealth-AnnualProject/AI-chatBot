@@ -13,8 +13,75 @@
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "c852c53d-0a4f-4952-b619-680546c1aacf",
+          "required": false,
+          "dataType": "@negative_qualifier",
+          "name": "negative_qualifier",
+          "value": "$negative_qualifier",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "fa224b5d-00b3-4431-8d47-ee6369760c3d",
+          "required": false,
+          "dataType": "@sys.geo-state",
+          "name": "geo-state",
+          "value": "$geo-state",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "080c2c74-977c-4454-a929-a67770009ae5",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "55147741-f4b3-412c-99a3-60fcf32cbcd7",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "name": "music-artist",
+          "value": "$music-artist",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a046a51a-fed6-4643-9ded-cdc02004d487",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": "Sad to hear it!"
+        },
         {
           "type": 0,
           "lang": "fr",

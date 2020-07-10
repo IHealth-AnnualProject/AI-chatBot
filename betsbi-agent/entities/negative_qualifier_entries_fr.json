@@ -39,5 +39,23 @@
       "mal fichu",
       "triste"
     ]
+  },
+  {
+    "value": "sad",
+    "synonyms": [
+      "sad",
+      "feel down",
+      "lonely",
+      "depressed"
+    ]
+  },
+  {
+    "value": "seul",
+    "synonyms": [
+      "seul",
+      "quitté",
+      "laissé",
+      "perdu"
+    ]
   }
 ]

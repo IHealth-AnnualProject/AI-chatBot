@@ -1,0 +1,27 @@
+[
+  {
+    "value": "souvent",
+    "synonyms": [
+      "souvent",
+      "trois fois par semaine",
+      "chaque jour",
+      "toujours",
+      "chaque mois",
+      "frequant"
+    ]
+  },
+  {
+    "value": "rare",
+    "synonyms": [
+      "rare",
+      "une fois par semaine",
+      "deux fois par semaine"
+    ]
+  },
+  {
+    "value": "jamias",
+    "synonyms": [
+      "jamias"
+    ]
+  }
+]

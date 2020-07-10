@@ -1,9 +1,15 @@
 [
   {
-    "id": "ff85dced-8662-4fa7-a13d-a203305ee67d",
+    "id": "d23ec07d-c22f-452d-810d-c4503712417b",
     "data": [
       {
-        "text": "J\u0027ai des pensées de mort, d\u0027automutilation ou de suicide",
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " fois par semaine",
         "userDefined": false
       }
     ],
@@ -12,10 +18,16 @@
     "updated": 0
   },
   {
-    "id": "fa0a1cd8-bea2-4da5-93ca-817a288cc78d",
+    "id": "5a7bfbc0-95e1-44a2-9af8-17879efe5668",
     "data": [
       {
-        "text": "Je m\u0027inquiète constamment et je me sens anxieux",
+        "text": "deux",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " fois par semaine",
         "userDefined": false
       }
     ],
@@ -24,10 +36,12 @@
     "updated": 0
   },
   {
-    "id": "157fd584-e7ec-4e20-836a-c58d04870012",
+    "id": "5d279cb2-6c8b-4142-83c9-a5dc3e0c172a",
     "data": [
       {
-        "text": "J\u0027ai des sentiments de dévalorisation ou de désespoir",
+        "text": "nerveux",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
         "userDefined": false
       }
     ],
@@ -36,10 +50,10 @@
     "updated": 0
   },
   {
-    "id": "8cbb031f-7931-482c-a048-557ecebeb859",
+    "id": "be75ade0-0799-42be-97c4-a5a590cf241f",
     "data": [
       {
-        "text": "J\u0027ai une manque de concentration, de problèmes de mémoire et une incapacité à prendre des décisions",
+        "text": "anxieux",
         "userDefined": false
       }
     ],
@@ -48,10 +62,10 @@
     "updated": 0
   },
   {
-    "id": "729a5f0c-3bfc-431e-adf4-d94e8d35bf13",
+    "id": "d9aff789-0f99-4a8f-af77-9fffd3efc8c0",
     "data": [
       {
-        "text": "J\u0027éprouve une perte d\u0027intérêt pour des activités auparavant agréables",
+        "text": "perdu",
         "userDefined": false
       }
     ],
@@ -60,10 +74,12 @@
     "updated": 0
   },
   {
-    "id": "8b5de434-9934-4f27-97fd-db84989b1ba2",
+    "id": "e8099d3d-c381-4abd-a8ba-45264eb933f0",
     "data": [
       {
-        "text": "J\u0027ai des maux et des douleurs inexpliqués",
+        "text": "isole",
+        "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],
@@ -72,10 +88,12 @@
     "updated": 0
   },
   {
-    "id": "82577208-2b24-4f23-9e63-29f2954d0ab5",
+    "id": "949c59d9-22f7-453f-8542-5f09c33a7341",
     "data": [
       {
-        "text": "Je mange trop",
+        "text": "seul",
+        "alias": "geo-state",
+        "meta": "@sys.geo-state",
         "userDefined": false
       }
     ],
@@ -84,10 +102,12 @@
     "updated": 0
   },
   {
-    "id": "c900ad82-7461-41ae-aa21-f03a444899ff",
+    "id": "a481f802-7a50-4a30-8378-64034f25701c",
     "data": [
       {
-        "text": "J\u0027ai une perte d\u0027appétit",
+        "text": "ennuyeuse",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
         "userDefined": false
       }
     ],
@@ -96,10 +116,10 @@
     "updated": 0
   },
   {
-    "id": "dbb991aa-e537-4f18-9879-820e7b62b1ae",
+    "id": "ada8995b-0124-4bd1-8a49-d32112ffa500",
     "data": [
       {
-        "text": "Je manque d\u0027énergie et de fatigue",
+        "text": "quelquefois",
         "userDefined": false
       }
     ],
@@ -108,10 +128,12 @@
     "updated": 0
   },
   {
-    "id": "e0204226-6ee2-485f-9aab-684f1340e34f",
+    "id": "d03b43b2-67d1-4d83-8481-3109c668d94c",
     "data": [
       {
-        "text": "Je dors trop",
+        "text": "Triste",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
         "userDefined": false
       }
     ],
@@ -120,10 +142,11 @@
     "updated": 0
   },
   {
-    "id": "175a6884-b20a-4a47-8419-1525e02ceb16",
+    "id": "b35743fe-6f56-49bb-80df-c28bca6271da",
     "data": [
       {
-        "text": "J\u0027ai du mal à dormir",
+        "text": "sad",
+        "meta": "@sys.ignore",
         "userDefined": false
       }
     ],
@@ -132,10 +155,10 @@
     "updated": 0
   },
   {
-    "id": "4695fc72-3bfb-45ec-8c23-a093ad1529cf",
+    "id": "bd314b35-5b64-4cec-b0bc-3a27f30c19a1",
     "data": [
       {
-        "text": "Je ressens du découragement, de la tristesse ou du chagrin",
+        "text": "Feel down",
         "userDefined": false
       }
     ],

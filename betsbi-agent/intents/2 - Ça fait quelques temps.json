@@ -11,7 +11,13 @@
     {
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "2-afaitquelquestemps-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "b1248905-b775-4859-ac29-afb78b0533ae",

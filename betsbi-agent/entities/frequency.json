@@ -1,0 +1,9 @@
+{
+  "id": "c2077883-6a4d-45e6-8d9e-6586bf83f9f2",
+  "name": "frequency",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
