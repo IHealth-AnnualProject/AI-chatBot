@@ -1,0 +1,105 @@
+[
+  {
+    "id": "a4bda9dd-9945-4dca-901d-268fb3a8da35",
+    "data": [
+      {
+        "text": "Quand je me réveille, il fait nuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b222fbe-a9b5-4ae1-a036-704ca768c6df",
+    "data": [
+      {
+        "text": "Quand je sors du travail, il fait nuit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "662e4bde-5026-43c8-8b7c-0d77fbccbe91",
+    "data": [
+      {
+        "text": "Il fait trop sombre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e552091-22e0-422e-8c8a-ea778fd490a0",
+    "data": [
+      {
+        "text": "Il fait sombre en permanence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de513872-da40-451c-82ff-370bfa7ec31a",
+    "data": [
+      {
+        "text": "Il fait ",
+        "userDefined": false
+      },
+      {
+        "text": "froid",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " et nuit tout le temps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef9f3b93-573f-4dec-8342-8f58b19f9f2e",
+    "data": [
+      {
+        "text": "C\u0027est à cause du ",
+        "userDefined": false
+      },
+      {
+        "text": "froid",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f19e14f-8b98-446e-85dc-9915e2dfdcf7",
+    "data": [
+      {
+        "text": "Il fait ",
+        "userDefined": false
+      },
+      {
+        "text": "froid",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

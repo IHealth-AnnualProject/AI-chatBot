@@ -1,0 +1,34 @@
+[
+  {
+    "value": "hiver",
+    "synonyms": [
+      "hiver",
+      "frimas",
+      "froid",
+      "hibernation",
+      "hibernage",
+      "l\u0027hiver",
+      "le froid"
+    ]
+  },
+  {
+    "value": "nuit",
+    "synonyms": [
+      "nuit",
+      "obscur",
+      "noir",
+      "pas de soleil",
+      "peu de soleil",
+      "pas assez de soleil",
+      "peu d\u0027ensoleillement",
+      "pas d\u0027ensoleillement",
+      "pas assez d\u0027ensoleillement",
+      "pas de lumière",
+      "peu de lumière",
+      "manque de lumière",
+      "manque de soleil",
+      "manque d\u0027ensoleillement",
+      "pas assez de lumière"
+    ]
+  }
+]
