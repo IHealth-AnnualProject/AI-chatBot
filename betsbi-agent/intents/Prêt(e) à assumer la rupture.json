@@ -1,0 +1,55 @@
+{
+  "id": "0601a7e6-3f28-4b3f-a3e3-216c136bcb82",
+  "parentId": "f6cbde03-fdf4-4eeb-94a8-ead7223dee93",
+  "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "Prêt(e) à assumer la rupture",
+  "auto": true,
+  "contexts": [
+    "Rupturercente-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom.Rupturercente-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6176ed68-bc96-40b0-9c3d-381524e90801",
+          "required": false,
+          "dataType": "@affirmation",
+          "name": "affirmation",
+          "value": "$affirmation",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

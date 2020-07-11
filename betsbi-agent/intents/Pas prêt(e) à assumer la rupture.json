@@ -1,0 +1,79 @@
+{
+  "id": "2d71fa13-bf76-44b7-806d-660272bc8803",
+  "parentId": "f6cbde03-fdf4-4eeb-94a8-ead7223dee93",
+  "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
+  "name": "Pas prêt(e) à assumer la rupture",
+  "auto": true,
+  "contexts": [
+    "Rupturercente-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom.Rupturercente-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6dc8cbd5-a05c-48e7-8ae5-fb02efbc66e9",
+          "required": false,
+          "dataType": "@negation",
+          "name": "negation",
+          "value": "$negation",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "e5e9155d-dd6a-41fc-b330-d00303e4fe43",
+          "required": false,
+          "dataType": "@average_qualifier",
+          "name": "average_qualifier",
+          "value": "$average_qualifier",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7167e4a5-3252-4d3f-b2db-25c463286c0d",
+          "required": false,
+          "dataType": "@affirmation",
+          "name": "affirmation",
+          "value": "$affirmation",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

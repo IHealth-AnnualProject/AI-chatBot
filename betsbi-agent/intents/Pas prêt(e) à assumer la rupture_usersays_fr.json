@@ -1,0 +1,114 @@
+[
+  {
+    "id": "46c60b56-d98c-40fe-940c-838dd4fe2747",
+    "data": [
+      {
+        "text": "Je ne pense ",
+        "userDefined": false
+      },
+      {
+        "text": "pas",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a90fd866-d315-4b6e-8f77-ffa7e4feef82",
+    "data": [
+      {
+        "text": "Pas",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      },
+      {
+        "text": " vraiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c6e7ce7-3631-46c3-b6d4-4114a4f1f792",
+    "data": [
+      {
+        "text": "Pas",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tout à fait",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5f1e022-9e85-46cd-8c30-a6f671782009",
+    "data": [
+      {
+        "text": "Moyen",
+        "alias": "average_qualifier",
+        "meta": "@average_qualifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3c97401-c562-4450-b119-cc59aa5dbd40",
+    "data": [
+      {
+        "text": "Pas",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "du tout",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0637ebdd-4085-4253-957f-28a816fa6312",
+    "data": [
+      {
+        "text": "Non",
+        "alias": "negation",
+        "meta": "@negation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

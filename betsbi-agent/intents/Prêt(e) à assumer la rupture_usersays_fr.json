@@ -1,9 +1,15 @@
 [
   {
-    "id": "38f6ceb0-8a15-46dc-91c3-b01c6bcc4577",
+    "id": "2dc6eec4-8e28-4fdf-9f7b-2a5a6ece2a76",
     "data": [
       {
-        "text": "Presque jamais",
+        "text": "Tout à fait",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      },
+      {
+        "text": " !",
         "userDefined": false
       }
     ],
@@ -12,10 +18,10 @@
     "updated": 0
   },
   {
-    "id": "ffa32381-38f0-4627-a56d-a1815b368b31",
+    "id": "0875298c-878b-4444-8405-e4fda8db0f9a",
     "data": [
       {
-        "text": "Rarement",
+        "text": "Bien-sûr que je suis prête",
         "userDefined": false
       }
     ],
@@ -24,12 +30,10 @@
     "updated": 0
   },
   {
-    "id": "4689e7c0-1159-413f-8aac-ae6198a0f779",
+    "id": "63f1c28c-9cf4-4abb-bcde-99fc1574fdbd",
     "data": [
       {
-        "text": "Parfois",
-        "alias": "location",
-        "meta": "@sys.location",
+        "text": "Bien-sûr que je suis prêt",
         "userDefined": false
       }
     ],
@@ -38,10 +42,11 @@
     "updated": 0
   },
   {
-    "id": "d1d56c1d-ae70-4564-acf7-27677ca8ac69",
+    "id": "6972fb8d-02a9-4caa-a2d3-76ceb96e94b3",
     "data": [
       {
-        "text": "Souvent",
+        "text": "Grave",
+        "meta": "@sys.ignore",
         "userDefined": false
       }
     ],
@@ -50,10 +55,12 @@
     "updated": 0
   },
   {
-    "id": "0a2512e5-2925-4758-8b7d-a0a2b5cfb01b",
+    "id": "71bcecd1-2db1-42e0-a382-ade2ac4c390e",
     "data": [
       {
-        "text": "La plupart du temps",
+        "text": "Oui",
+        "alias": "affirmation",
+        "meta": "@affirmation",
         "userDefined": false
       }
     ],
