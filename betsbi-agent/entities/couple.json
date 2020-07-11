@@ -1,0 +1,9 @@
+{
+  "id": "ce93d097-b4ed-4172-a3ab-e471e6e74ca5",
+  "name": "couple",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

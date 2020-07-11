@@ -1,0 +1,9 @@
+{
+  "id": "5be4a809-3f0c-4093-b285-acc662a0c76c",
+  "name": "rupture",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

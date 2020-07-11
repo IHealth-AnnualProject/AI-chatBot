@@ -1,0 +1,29 @@
+[
+  {
+    "value": "copain",
+    "synonyms": [
+      "copain",
+      "mec",
+      "petit ami",
+      "petit copain",
+      "amoureux",
+      "fiancé",
+      "chéri",
+      "garçon"
+    ]
+  },
+  {
+    "value": "copine",
+    "synonyms": [
+      "copine",
+      "meuf",
+      "petite amie",
+      "petite copine",
+      "amoureuse",
+      "compagne",
+      "fiancée",
+      "chérie",
+      "fille"
+    ]
+  }
+]

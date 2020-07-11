@@ -12,17 +12,42 @@
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "5741f721-df44-4e90-af61-7af16ff5a1e2",
+          "required": false,
+          "dataType": "@rupture",
+          "name": "rupture",
+          "value": "$rupture",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7c183f61-fc9d-4b4c-830c-183b44a3e86a",
+          "required": false,
+          "dataType": "@negative_qualifier",
+          "name": "negative_qualifier",
+          "value": "$negative_qualifier",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
           "speech": []
         }

@@ -1,0 +1,76 @@
+[
+  {
+    "id": "3e9b2d19-4d61-4996-8a4e-f0302925ea0f",
+    "data": [
+      {
+        "text": "Mon mec m\u0027a ",
+        "userDefined": false
+      },
+      {
+        "text": "laissé",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca79bbe9-fdd2-4560-a8ce-e22770e78fe9",
+    "data": [
+      {
+        "text": "Ma meuf m\u0027a abandonné",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "366ea27a-86eb-4b0b-b0f7-55ad8b113cfd",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "rompu",
+        "alias": "rupture",
+        "meta": "@rupture",
+        "userDefined": false
+      },
+      {
+        "text": " avec mon copain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c24fecc-8771-4793-b413-d7cf00cc80f1",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "rompu",
+        "alias": "rupture",
+        "meta": "@rupture",
+        "userDefined": false
+      },
+      {
+        "text": " avec ma copine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
