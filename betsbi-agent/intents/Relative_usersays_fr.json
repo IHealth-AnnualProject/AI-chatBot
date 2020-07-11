@@ -1,11 +1,9 @@
 [
   {
-    "id": "e812b443-5404-4057-b71f-afda9880e9d5",
+    "id": "f5e475a3-7a7e-4d84-87b4-aac06485c7e7",
     "data": [
       {
-        "text": "bien sur",
-        "alias": "affirmation",
-        "meta": "@affirmation",
+        "text": "oncle",
         "userDefined": false
       }
     ],
@@ -14,10 +12,10 @@
     "updated": 0
   },
   {
-    "id": "4e3333eb-ec0c-428f-bebc-ffd5e472fc7e",
+    "id": "7d8aed05-81a3-41d3-9b35-ac0ab974a558",
     "data": [
       {
-        "text": "prête",
+        "text": "tante",
         "userDefined": false
       }
     ],
@@ -26,16 +24,10 @@
     "updated": 0
   },
   {
-    "id": "35d2577d-10ec-4078-bb0b-be5e203cd687",
+    "id": "22c2cdb4-de79-44f4-9143-dfaf4b6dd7f8",
     "data": [
       {
-        "text": "De ouf",
-        "alias": "affirmation",
-        "meta": "@affirmation",
-        "userDefined": false
-      },
-      {
-        "text": " !",
+        "text": "cousin",
         "userDefined": false
       }
     ],
@@ -44,16 +36,12 @@
     "updated": 0
   },
   {
-    "id": "2dc6eec4-8e28-4fdf-9f7b-2a5a6ece2a76",
+    "id": "833897a9-edd2-43cc-9dae-2830d1cb6c97",
     "data": [
       {
-        "text": "Tout à fait",
-        "alias": "affirmation",
-        "meta": "@affirmation",
-        "userDefined": false
-      },
-      {
-        "text": " !",
+        "text": "maman",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
         "userDefined": false
       }
     ],
@@ -62,10 +50,12 @@
     "updated": 0
   },
   {
-    "id": "0875298c-878b-4444-8405-e4fda8db0f9a",
+    "id": "856307f7-7597-41d2-a0b3-bc216051f939",
     "data": [
       {
-        "text": "Bien-sûr que je suis prête",
+        "text": "papa",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
         "userDefined": false
       }
     ],
@@ -74,10 +64,12 @@
     "updated": 0
   },
   {
-    "id": "63f1c28c-9cf4-4abb-bcde-99fc1574fdbd",
+    "id": "085687f2-adcf-4697-8bbf-00c0f4d80047",
     "data": [
       {
-        "text": "Bien-sûr que je suis prêt",
+        "text": "père",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
         "userDefined": false
       }
     ],
@@ -86,11 +78,10 @@
     "updated": 0
   },
   {
-    "id": "6972fb8d-02a9-4caa-a2d3-76ceb96e94b3",
+    "id": "c12b20bf-9991-40a3-9251-be67cc6841f7",
     "data": [
       {
-        "text": "Grave",
-        "meta": "@sys.ignore",
+        "text": "mère",
         "userDefined": false
       }
     ],
@@ -99,12 +90,24 @@
     "updated": 0
   },
   {
-    "id": "71bcecd1-2db1-42e0-a382-ade2ac4c390e",
+    "id": "42800175-555a-482a-8c14-31921301df8c",
     "data": [
       {
-        "text": "Oui",
-        "alias": "affirmation",
-        "meta": "@affirmation",
+        "text": "frère",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10a50b35-5011-485d-9565-cf595028e46f",
+    "data": [
+      {
+        "text": "soeur",
+        "alias": "location",
+        "meta": "@sys.location",
         "userDefined": false
       }
     ],

@@ -14,7 +14,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "1e2c37a8-9e8b-4a61-bc50-55a83b2ff23f",
+          "id": "0dfdb2a3-567c-43c6-b8a2-fb41a619fe37",
           "required": false,
           "dataType": "@affirmation",
           "name": "affirmation",
@@ -31,7 +31,11 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": [
+            "Voila, je vois! Je vous félicite vous avez déjà parcouru un long chemin.\nVoici les quelques conseils à appliquer :\n\n1.Réduire les souvenirs pour surmonter la rupture plus vite\n\nVous y avez des souvenirs heureux et d’autres, beaucoup moins. Il va falloir en créer d’autres mais dans un cadre différent de celui-ci qui vous appartenait à tous les deux.\n\nS’il est impossible d’effacer un souvenir quand il s’impose de lui-même, il reste une solution : réduire le nombre de détails qui réactivent ce(s) souvenir(s).\n\nPrenez le temps de regarder autour de vous et rassemblez ses affaires disséminées dans votre appartement sans vous en débarrasser (vous ne le pourriez probablement pas).",
+            "2.Réduire les lieux où vous alliez « en couple », pour le moment\nMême règle quant aux sorties à l’extérieur : n’ayez pas peur du changement.\n\nDans un premier temps – et sans être dans l’évitement -, il va falloir bouleverser vos habitudes. Si certains endroits publics sont fortement associés à ce que vous avez vécu avec votre ex, ne vous y rendez pas.",
+            "3. Dernier conseil : pensez à vous !\nEnfin, quand le souvenir de votre ex sera moins présent, peut-être qu’il vous faudra penser à vous et à ce que vous pourriez envisager.\n\nCertes, il y a un avant et un après."
+          ]
         },
         {
           "type": 0,
