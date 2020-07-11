@@ -12,13 +12,32 @@
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "babc0884-04c5-44cd-bc07-d1c4460f4b20",
+          "required": false,
+          "dataType": "@negative_qualifier",
+          "name": "negative_qualifier",
+          "value": "$negative_qualifier",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": [
+            "Le stress est une réponse physiologique normale à une situation anormale. Il permet à notre organisme de s’adapter aux différents événements positifs ou négatifs que nous vivons comme une naissance, un changement professionnel ou encore la perte d’un emploi.",
+            "Si vous connaissez une forte exposition à des facteurs de stress et d’anxiété du fait de votre activité professionnelle, vous pouvez contacter votre médecin du travail ou votre centre de rattachement.",
+            "Comme une solution de soulager votre symptômes vous pouvez \n1) Pratiquer régulièrement une activité physique de différents types et dans toutes les situations du quotidien : se déplacer, prendre les escaliers, bricoler... L’exercice physique ne se limite pas au sport. Ainsi, il peut prendre des formes multiples, incluant la marche, les activités professionnelles, domestiques et certains loisirs. L’activité physique doit être régulière pour avoir un effet positif sur la santé. C’est pourquoi il est recommandé de faire de l’exercice au moins cinq jours sur sept, et tous les jours dans l’idéal.",
+            "2) Continuer votre education pour ne perdre pas de temps",
+            "3) Améliorer les relations dans votre famille. N\u0027oubliez pas qu\u0027ils soufrent avec vous."
+          ]
         },
         {
           "type": 0,

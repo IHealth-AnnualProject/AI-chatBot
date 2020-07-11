@@ -1,34 +1,28 @@
 {
-  "id": "69b76856-3b25-47c5-b317-3f6348174024",
-  "parentId": "2ad69a60-0272-41c1-ae42-4f2d025dd2b1",
+  "id": "f9aab507-3a36-4fd0-918c-2a2978d4c48a",
+  "parentId": "69b76856-3b25-47c5-b317-3f6348174024",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "Mort d\u0027un être cher",
+  "name": "Mort d\u0027un être cher - custom",
   "auto": true,
   "contexts": [
-    "1-afaitpeutdetemps-followup"
+    "Mortduntrecher-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom",
-      "affectedContexts": [
-        {
-          "name": "Mortduntrecher-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom.Mortduntrecher-custom",
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
           "speech": []
         }

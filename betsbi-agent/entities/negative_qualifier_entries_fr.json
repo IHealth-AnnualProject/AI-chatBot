@@ -15,7 +15,10 @@
   {
     "value": "très mal",
     "synonyms": [
-      "très mal"
+      "très mal",
+      "très très mal",
+      "trop mal",
+      "terrible"
     ]
   },
   {
@@ -53,9 +56,8 @@
     "value": "seul",
     "synonyms": [
       "seul",
-      "quitté",
-      "laissé",
-      "perdu"
+      "solitaire",
+      "abandonné"
     ]
   }
 ]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d821aca4-2fbb-4ded-8d03-a0d63ed7aea8",
+    "data": [
+      {
+        "text": "chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a726c578-a9d6-4655-9788-0bd053ac3cba",
+    "data": [
+      {
+        "text": "chien",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

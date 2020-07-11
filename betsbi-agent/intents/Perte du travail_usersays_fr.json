@@ -1,9 +1,9 @@
 [
   {
-    "id": "1d29696d-acf4-4ea9-adab-31671f77cad9",
+    "id": "f44f4d0d-e13b-44fb-9691-33e1630faa8c",
     "data": [
       {
-        "text": "Rarement",
+        "text": "chomage",
         "userDefined": false
       }
     ],
@@ -12,10 +12,10 @@
     "updated": 0
   },
   {
-    "id": "6eb7999a-a163-4b8c-9d5f-6fba286b4a72",
+    "id": "f95f62a4-cf5a-4784-afaf-a689be11d44d",
     "data": [
       {
-        "text": "Presque jamais",
+        "text": "fait virer",
         "userDefined": false
       }
     ],
@@ -24,12 +24,10 @@
     "updated": 0
   },
   {
-    "id": "45f40bcb-4b02-4cf7-ac6c-85757d609857",
+    "id": "13b25202-6efd-445a-997e-16a876dc7854",
     "data": [
       {
-        "text": "Parfois",
-        "alias": "location",
-        "meta": "@sys.location",
+        "text": "travail",
         "userDefined": false
       }
     ],
@@ -38,22 +36,16 @@
     "updated": 0
   },
   {
-    "id": "00b16cbb-4faa-4120-b828-7bf2531be2c5",
+    "id": "956dd809-daa7-4d81-94df-c45055e79b5b",
     "data": [
       {
-        "text": "Souvent",
+        "text": "perdu",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
         "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "60d15304-0534-446c-a1d7-3fed38bd8529",
-    "data": [
+      },
       {
-        "text": "La plupart du temps",
+        "text": " le travail",
         "userDefined": false
       }
     ],
