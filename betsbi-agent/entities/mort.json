@@ -1,0 +1,9 @@
+{
+  "id": "1e00ac48-ff04-4923-9e98-20017cf37f59",
+  "name": "mort",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "value": "mort",
+    "synonyms": [
+      "mort",
+      "morte",
+      "morts",
+      "perdu",
+      "décédé",
+      "coûté la vie",
+      "couté sa vie"
+    ]
+  },
+  {
+    "value": "tué",
+    "synonyms": [
+      "tué",
+      "assassiné"
+    ]
+  },
+  {
+    "value": "s\u0027est fait écraser",
+    "synonyms": [
+      "s\u0027est fait écraser",
+      "s\u0027est fait tuer"
+    ]
+  },
+  {
+    "value": "s\u0027est suicidé",
+    "synonyms": [
+      "s\u0027est suicidé",
+      "s\u0027est pendu",
+      "s\u0027est donné la mort"
+    ]
+  }
+]

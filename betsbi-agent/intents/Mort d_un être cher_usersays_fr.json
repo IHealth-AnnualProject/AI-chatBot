@@ -1,0 +1,79 @@
+[
+  {
+    "id": "334bbd02-9335-4cf2-b2af-07831272088d",
+    "data": [
+      {
+        "text": "Mon papie a ",
+        "userDefined": false
+      },
+      {
+        "text": "été",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " victime d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " accident qui lui a ",
+        "userDefined": false
+      },
+      {
+        "text": "coûté la vie",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c49a2db-d260-4340-a105-33562cf72073",
+    "data": [
+      {
+        "text": "Mon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " père est ",
+        "userDefined": false
+      },
+      {
+        "text": "décédé",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4cdc41a-fe1a-46bb-8084-bb65ce7f8e4e",
+    "data": [
+      {
+        "text": "Ma mamie est ",
+        "userDefined": false
+      },
+      {
+        "text": "morte",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

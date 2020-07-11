@@ -59,5 +59,21 @@
       "solitaire",
       "abandonné"
     ]
+  },
+  {
+    "value": "ça va mal",
+    "synonyms": [
+      "ça va mal",
+      "ça va pas",
+      "ça va très mal",
+      "ça va vraiment mal",
+      "ça ne va pas bien",
+      "ça ne va pas",
+      "ça va très très mal",
+      "ça se passe très mal",
+      "ça se passe mal",
+      "ça se passe pas bien",
+      "ça ne se passe pas bien pour moi"
+    ]
   }
 ]

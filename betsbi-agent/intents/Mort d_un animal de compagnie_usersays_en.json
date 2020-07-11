@@ -1,0 +1,93 @@
+[
+  {
+    "id": "05a71464-66bf-4ed2-93df-ea6d44a9cda2",
+    "data": [
+      {
+        "text": "Mon chat ",
+        "userDefined": false
+      },
+      {
+        "text": "s\u0027est fait écraser",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": true
+      },
+      {
+        "text": " par ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " voiture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "feea1b31-0bcf-426d-b15e-b027c841dd8f",
+    "data": [
+      {
+        "text": "Mon",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " perroquet est mort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cc4bfc7-082e-4a8c-8a9e-7c42b92ceb2f",
+    "data": [
+      {
+        "text": "Mon chat est ",
+        "userDefined": false
+      },
+      {
+        "text": "mort",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6008438-cbef-4c36-b473-e3eae1d297d2",
+    "data": [
+      {
+        "text": "Mon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chien est ",
+        "userDefined": false
+      },
+      {
+        "text": "mort",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

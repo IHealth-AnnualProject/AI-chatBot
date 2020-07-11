@@ -1,8 +1,8 @@
 {
-  "id": "69b76856-3b25-47c5-b317-3f6348174024",
+  "id": "a1df9541-13c6-43be-b967-f92285a35066",
   "parentId": "2ad69a60-0272-41c1-ae42-4f2d025dd2b1",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "Mort d\u0027un être cher",
+  "name": "Mort d\u0027un animal de compagnie",
   "auto": true,
   "contexts": [
     "1-afaitpeutdetemps-followup"
@@ -11,20 +11,38 @@
     {
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom",
-      "affectedContexts": [
-        {
-          "name": "Mortduntrecher-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "affectedContexts": [],
       "parameters": [
         {
-          "id": "7fc70cac-c012-4cc5-9074-4200ed811a03",
+          "id": "b55bb031-a579-48b9-85ed-b8a17372ec13",
           "required": false,
           "dataType": "@mort",
           "name": "mort",
           "value": "$mort",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b9e7e25f-3d54-4d6d-b5b7-1d29e50a9bee",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "80e4096f-8a66-4bc5-8b90-9cca295966fe",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -35,13 +53,13 @@
       "messages": [
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
           "speech": []
         }
