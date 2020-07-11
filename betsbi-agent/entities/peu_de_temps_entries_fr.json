@@ -67,5 +67,24 @@
       "ça fait 10 jours",
       "ça fait une dizaine de jours"
     ]
+  },
+  {
+    "value": "1 jour",
+    "synonyms": [
+      "1 jour",
+      "2 jours",
+      "3 jours",
+      "un jour",
+      "deux jours",
+      "trois jours",
+      "quatre jours",
+      "4 jours",
+      "5 jours",
+      "6 jours",
+      "7 jours",
+      "8 jours",
+      "une semaine",
+      "une semaine et un jour"
+    ]
   }
 ]

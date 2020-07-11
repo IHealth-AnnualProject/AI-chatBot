@@ -1,5 +1,23 @@
 [
   {
+    "id": "6290bdd1-102f-4f14-acdd-58c3a15091ed",
+    "data": [
+      {
+        "text": "Ma meuf m\u0027a ",
+        "userDefined": false
+      },
+      {
+        "text": "laissé",
+        "alias": "negative_qualifier",
+        "meta": "@negative_qualifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "3e9b2d19-4d61-4996-8a4e-f0302925ea0f",
     "data": [
       {
