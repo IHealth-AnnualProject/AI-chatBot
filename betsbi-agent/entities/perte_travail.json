@@ -1,0 +1,9 @@
+{
+  "id": "fb974b66-9732-4b53-9f06-fa4ef7064f91",
+  "name": "perte_travail",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

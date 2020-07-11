@@ -1,5 +1,23 @@
 [
   {
+    "id": "35d2577d-10ec-4078-bb0b-be5e203cd687",
+    "data": [
+      {
+        "text": "De ouf",
+        "alias": "affirmation",
+        "meta": "@affirmation",
+        "userDefined": false
+      },
+      {
+        "text": " !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "2dc6eec4-8e28-4fdf-9f7b-2a5a6ece2a76",
     "data": [
       {

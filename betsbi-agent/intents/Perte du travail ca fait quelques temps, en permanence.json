@@ -1,23 +1,17 @@
 {
-  "id": "86b7f27e-d35e-447a-871b-191d61b55b91",
-  "parentId": "b73a0f10-7a7a-4d16-8216-f6af9f53676f",
+  "id": "0a0c422c-4b6e-4dde-9ad8-19a08baec87d",
+  "parentId": "86b7f27e-d35e-447a-871b-191d61b55b91",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "3.a - En permanence",
+  "name": "Perte du travail ca fait quelques temps, en permanence",
   "auto": true,
   "contexts": [
-    "2-afaitquelquestemps-followup"
+    "3a-Enpermanence-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.2-afaitquelquestemps-custom-2",
-      "affectedContexts": [
-        {
-          "name": "3a-Enpermanence-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.2-afaitquelquestemps-custom-2.3a-Enpermanence-custom",
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
