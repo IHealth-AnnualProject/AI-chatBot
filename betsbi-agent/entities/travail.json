@@ -1,0 +1,9 @@
+{
+  "id": "91a5e567-6431-4e80-9583-8fdabbc79b83",
+  "name": "travail",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "00a7faf5-1d3b-4baa-addf-8c5d96c43c4b",
+  "name": "animal_de_compagnie",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

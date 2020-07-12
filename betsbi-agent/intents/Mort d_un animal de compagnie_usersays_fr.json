@@ -1,0 +1,219 @@
+[
+  {
+    "id": "f4f0d07d-dd7a-4094-bd8d-d9cbb200681b",
+    "data": [
+      {
+        "text": "Mon ",
+        "userDefined": false
+      },
+      {
+        "text": "chien",
+        "alias": "animal_de_compagnie",
+        "meta": "@animal_de_compagnie",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "s",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "noyé",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8d16a68-6522-4b03-92aa-292e35f3a5f1",
+    "data": [
+      {
+        "text": "Mon voisin a ",
+        "userDefined": false
+      },
+      {
+        "text": "tué",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": false
+      },
+      {
+        "text": " mon ",
+        "userDefined": false
+      },
+      {
+        "text": "chat",
+        "alias": "animal_de_compagnie",
+        "meta": "@animal_de_compagnie",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f4560db-9551-4e7a-b01a-0cb2f5f98e6a",
+    "data": [
+      {
+        "text": "Mon ",
+        "userDefined": false
+      },
+      {
+        "text": "chat",
+        "alias": "animal_de_compagnie",
+        "meta": "@animal_de_compagnie",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "s\u0027est fait écraser",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": false
+      },
+      {
+        "text": " par ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " voiture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f191a2b5-a4aa-4c3f-ba78-56dd2dc31ef0",
+    "data": [
+      {
+        "text": "Mon ",
+        "userDefined": false
+      },
+      {
+        "text": "chat",
+        "alias": "animal_de_compagnie",
+        "meta": "@animal_de_compagnie",
+        "userDefined": true
+      },
+      {
+        "text": " est ",
+        "userDefined": false
+      },
+      {
+        "text": "mort",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07fa4eeb-30ff-41e1-9536-d79813588faa",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "perdu",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": false
+      },
+      {
+        "text": " mon ",
+        "userDefined": false
+      },
+      {
+        "text": "perroquet",
+        "alias": "animal_de_compagnie",
+        "meta": "@animal_de_compagnie",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dc0c087-9c41-4450-88d9-d5ba739b767b",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "perdu",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": false
+      },
+      {
+        "text": " mon ",
+        "userDefined": false
+      },
+      {
+        "text": "chat",
+        "alias": "animal_de_compagnie",
+        "meta": "@animal_de_compagnie",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cff2026-4557-4498-87bc-ecf22f379fc2",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "perdu",
+        "alias": "mort",
+        "meta": "@mort",
+        "userDefined": false
+      },
+      {
+        "text": " mon ",
+        "userDefined": false
+      },
+      {
+        "text": "chien",
+        "alias": "animal_de_compagnie",
+        "meta": "@animal_de_compagnie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

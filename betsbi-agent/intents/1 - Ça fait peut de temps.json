@@ -47,15 +47,15 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
-          "condition": "",
-          "speech": []
-        },
-        {
-          "type": 0,
           "lang": "fr",
           "condition": "",
           "speech": "D\u0027accord. Tout d\u0027abord je dois dire que le fait que tu sois en train de chercher de l\u0027aide est un bon signe, ça veut dire que tu cherches activement à surmonter cette situation. Pour continuer, pourrais tu me dire s\u0027il y a eu un événement particulier qui s\u0027est produit récemment et qui t\u0027a fait te sentir comme ça ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},

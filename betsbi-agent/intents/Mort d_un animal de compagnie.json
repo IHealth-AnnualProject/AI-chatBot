@@ -14,7 +14,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "b55bb031-a579-48b9-85ed-b8a17372ec13",
+          "id": "90b5c46f-9df4-4dd8-9b30-460435bd48a6",
           "required": false,
           "dataType": "@mort",
           "name": "mort",
@@ -26,23 +26,11 @@
           "isList": false
         },
         {
-          "id": "b9e7e25f-3d54-4d6d-b5b7-1d29e50a9bee",
+          "id": "eee55e0f-a2b7-497e-be56-bd18b8cc64c9",
           "required": false,
-          "dataType": "@sys.date-time",
-          "name": "date-time",
-          "value": "$date-time",
-          "promptMessages": [],
-          "noMatchPromptMessages": [],
-          "noInputPromptMessages": [],
-          "outputDialogContexts": [],
-          "isList": false
-        },
-        {
-          "id": "80e4096f-8a66-4bc5-8b90-9cca295966fe",
-          "required": false,
-          "dataType": "@sys.number",
-          "name": "number",
-          "value": "$number",
+          "dataType": "@animal_de_compagnie",
+          "name": "animal_de_compagnie",
+          "value": "$animal_de_compagnie",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -53,13 +41,13 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
+          "lang": "fr",
           "condition": "",
           "speech": []
         },
         {
           "type": 0,
-          "lang": "fr",
+          "lang": "en",
           "condition": "",
           "speech": []
         }

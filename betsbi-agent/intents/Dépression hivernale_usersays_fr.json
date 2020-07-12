@@ -1,5 +1,112 @@
 [
   {
+    "id": "baccb243-a21d-468e-a5fb-e8845f233d52",
+    "data": [
+      {
+        "text": "Il fait ",
+        "userDefined": false
+      },
+      {
+        "text": "gris",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " permanence",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07491c3a-77c0-448f-867d-9cc017b6395f",
+    "data": [
+      {
+        "text": "Il fait trop ",
+        "userDefined": false
+      },
+      {
+        "text": "gris",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      },
+      {
+        "text": " tout le temps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db4998b9-04da-4a28-a7bf-0abc66d4f5bb",
+    "data": [
+      {
+        "text": "La lumière ",
+        "userDefined": false
+      },
+      {
+        "text": "du jour",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me manque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ae15218-b1e7-4409-aeed-fd5d6f0518cc",
+    "data": [
+      {
+        "text": "Le soleil me manque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0431474c-323b-4c78-8ac5-a55e17f6517b",
+    "data": [
+      {
+        "text": "L\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "été",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " me manque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "ac1d92d5-581a-4dbb-a4f6-e9886fbd6f81",
     "data": [
       {

@@ -1,5 +1,29 @@
 [
   {
+    "id": "8e922692-14f4-466c-a8b3-cf0862c3bd5a",
+    "data": [
+      {
+        "text": "J\u0027ai envie de fumer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f37e967-b6ef-4cd2-8972-1bd0d3d7ea86",
+    "data": [
+      {
+        "text": "J\u0027ai arrêté de fumer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "4680f244-ad44-43d1-b690-654db91470c1",
     "data": [
       {

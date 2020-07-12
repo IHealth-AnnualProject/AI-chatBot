@@ -1,8 +1,8 @@
 {
-  "id": "f2b20fd6-6813-4d07-bb53-f2a1631e2062",
+  "id": "c79ff509-ec8a-4425-9d33-8ecdbe2b05b2",
   "parentId": "2ad69a60-0272-41c1-ae42-4f2d025dd2b1",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "1 - Ça fait peut de temps - custom-2",
+  "name": "Stress lie au travail",
   "auto": true,
   "contexts": [
     "1-afaitpeutdetemps-followup"
@@ -10,7 +10,7 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom-2",
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom",
       "affectedContexts": [],
       "parameters": [],
       "messages": [

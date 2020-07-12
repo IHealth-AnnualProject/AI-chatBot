@@ -1,0 +1,9 @@
+{
+  "id": "8a1e897f-98f3-4e69-8bdf-c1fcf7544333",
+  "name": "fumer",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

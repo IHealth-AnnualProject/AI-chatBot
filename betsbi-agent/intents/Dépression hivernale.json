@@ -14,7 +14,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "271eb2b0-2c65-4643-a54b-284ffd898d96",
+          "id": "b265524f-275a-42c7-b6d6-b62779f053c6",
           "required": false,
           "dataType": "@hivernale",
           "name": "hivernale",
@@ -26,11 +26,23 @@
           "isList": false
         },
         {
-          "id": "c43f1a65-ea60-492d-94f1-2fa6ae485f58",
+          "id": "86cbc2a0-080c-440f-9053-a846613b6765",
           "required": false,
           "dataType": "@sys.language",
           "name": "language",
           "value": "$language",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b2b6012b-7738-445c-8a40-f3f4e5e83cd8",
+          "required": false,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -43,7 +55,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": "Je vois, il s\u0027agit effectivement d\u0027une déprime due à la manque d\u0027ensoleillement typique de l\u0027hiver. Mais ne t\u0027inquiète pas ! Garder le sourire à l\u0027approche de l\u0027hiver, c\u0027est possible ! Tu peux protéger ta moral et mettre fin à un petit coup de blues simplement. Luminothérapie à l\u0027hôpital ou à la maison, thérapies brèves... Des solutions permettent de chasser la déprime de manière efficace. Tous les secrets pour passer l\u0027hiver la tête haute ! Le soleil joue un rôle primordial sur notre moral. our la planète est bon pour notre corps ! La lumière est essentielle pour notre organisme, pour réguler nos rythmes biologiques, faire le plein d\u0027énergie, chasser le stress et la dépression saisonnière. En cas de besoin, une cure de luminothérapie permet d\u0027ailleurs de recharger les batteries et d\u0027éviter les carences en lux."
+          "speech": "Je vois, il s\u0027agit effectivement d\u0027une déprime due à la manque d\u0027ensoleillement typique de l\u0027hiver. Mais ne t\u0027inquiète pas ! Garder le sourire à l\u0027approche de l\u0027hiver, c\u0027est possible ! Tu peux protéger ta moral et mettre fin à un petit coup de blues simplement. Luminothérapie à l\u0027hôpital ou à la maison, thérapies brèves... Des solutions permettent de chasser la déprime de manière efficace. Tous les secrets pour passer l\u0027hiver la tête haute ! Le soleil joue un rôle primordial sur notre moral. our la planète est bon pour notre corps ! La lumière est essentielle pour notre organisme, pour réguler nos rythmes biologiques, faire le plein d\u0027énergie, chasser le stress et la dépression saisonnière. En cas de besoin, une cure de luminothérapie permet d\u0027ailleurs de recharger les batteries et d\u0027éviter les carences en lux.\n\nJ\u0027espère que cela puisse t\u0027être utile, et si tu as d\u0027autres problèmes et que tu penses que je peux te donner quelques conseils, n\u0027hésite pas à reprendre le chat en tapant \"démarrer betsbi\" ou l\u0027une des autres salutations habituelles."
         },
         {
           "type": 0,
