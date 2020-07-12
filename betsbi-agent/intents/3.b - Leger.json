@@ -1,23 +1,17 @@
 {
-  "id": "cfdfad93-f198-46b7-8857-d3faa11e5197",
-  "parentId": "e2a32c90-3bcb-4107-9d44-b156d524e628",
+  "id": "4037c9ba-17e3-4939-a6cf-4acbc8c1de7f",
+  "parentId": "cfdfad93-f198-46b7-8857-d3faa11e5197",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "3.b - En permanence",
+  "name": "3.b - Leger",
   "auto": true,
   "contexts": [
-    "3-afaitlongtemps-followup"
+    "3b-Enpermanence-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom.3-afaitlongtemps-custom-2",
-      "affectedContexts": [
-        {
-          "name": "3b-Enpermanence-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom.3-afaitlongtemps-custom-2.3b-Enpermanence-custom-2",
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
