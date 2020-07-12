@@ -12,13 +12,26 @@
       "resetContexts": false,
       "action": "11-Commencerconversation.11-Commencerconversation-custom.3-Dpression-custom-2.1-afaitpeutdetemps-custom",
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "1db5352b-c1c7-4441-9077-48b9e3cadc84",
+          "required": false,
+          "dataType": "@travail",
+          "name": "travail",
+          "value": "$travail",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": []
+          "speech": "Bien que le stress est indéniablement préjudiciable, tu as plus de contrôle sur tes niveaux de stress que tu pourrais le penser. Puisque tout le monde a une réponse unique au stress, il n’y a pas une et une seule solution adaptée et valable pour tous . Aucune méthode ne fonctionne pour tout le monde ou dans chaque situation. Sachant cela, il est intéressant d’expérimenter différentes techniques et stratégies.\n\nFaisons un premier focus sur ce qui vous t\u0027aidera à te sentir plus calme et à retrouver plus de contrôle:\n- Apprends à gérer le stress: Dans certaines circonstances, vous pouvez ressentir que le stress dans votre vie et ses conséquences néfastes  échappent à votre contrôle. Toutefois, il reste une excellente nouvelle : tu as le  CONTRÔLE SUR TA RÉACTION.\n\nLa gestion du stress consiste à changer la situation stressante quand tu peux, et changer ta réaction quand tu ne peux pas : l’acceptation ou l’accueil en ACT."
         },
         {
           "type": 0,
