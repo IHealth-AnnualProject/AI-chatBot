@@ -2,7 +2,7 @@
   "id": "b0f7b834-e0a0-42fe-b6f3-af7946b8ba4f",
   "parentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
   "rootParentId": "8401dbc0-2be8-4801-8306-e145fc7ef261",
-  "name": "3 - Dépression",
+  "name": "2 - Dépression",
   "auto": true,
   "contexts": [
     "11-Commencerconversation-followup",
@@ -21,11 +21,23 @@
       ],
       "parameters": [
         {
-          "id": "ec2cfdb9-16e6-42c8-870c-f5af23b8c353",
+          "id": "f10014c4-3b89-416c-beb0-24fc8d4e896c",
           "required": false,
           "dataType": "@negative_qualifier",
           "name": "negative_qualifier",
           "value": "$negative_qualifier",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "5f0f91f6-11b5-45eb-81fb-81da7c653857",
+          "required": false,
+          "dataType": "@average_qualifier",
+          "name": "average_qualifier",
+          "value": "$average_qualifier",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -36,15 +48,15 @@
       "messages": [
         {
           "type": 0,
-          "lang": "en",
-          "condition": "",
-          "speech": []
-        },
-        {
-          "type": 0,
           "lang": "fr",
           "condition": "",
           "speech": "Désolé d\u0027entendre ça. Dis-moi, depuis combien de temps as-tu commencé à ressentir cela ?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},

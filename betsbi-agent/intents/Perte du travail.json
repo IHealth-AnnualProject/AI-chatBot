@@ -14,11 +14,11 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "babc0884-04c5-44cd-bc07-d1c4460f4b20",
+          "id": "2d4c54f9-eb0a-4792-9f3c-e35b09859b7d",
           "required": false,
-          "dataType": "@negative_qualifier",
-          "name": "negative_qualifier",
-          "value": "$negative_qualifier",
+          "dataType": "@perte_travail",
+          "name": "perte_travail",
+          "value": "$perte_travail",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -31,13 +31,7 @@
           "type": 0,
           "lang": "fr",
           "condition": "",
-          "speech": [
-            "Le stress est une réponse physiologique normale à une situation anormale. Il permet à notre organisme de s’adapter aux différents événements positifs ou négatifs que nous vivons comme une naissance, un changement professionnel ou encore la perte d’un emploi.",
-            "Si vous connaissez une forte exposition à des facteurs de stress et d’anxiété du fait de votre activité professionnelle, vous pouvez contacter votre médecin du travail ou votre centre de rattachement.",
-            "Comme une solution de soulager votre symptômes vous pouvez \n1) Pratiquer régulièrement une activité physique de différents types et dans toutes les situations du quotidien : se déplacer, prendre les escaliers, bricoler... L’exercice physique ne se limite pas au sport. Ainsi, il peut prendre des formes multiples, incluant la marche, les activités professionnelles, domestiques et certains loisirs. L’activité physique doit être régulière pour avoir un effet positif sur la santé. C’est pourquoi il est recommandé de faire de l’exercice au moins cinq jours sur sept, et tous les jours dans l’idéal.",
-            "2) Continuer votre education pour ne perdre pas de temps",
-            "3) Améliorer les relations dans votre famille. N\u0027oubliez pas qu\u0027ils soufrent avec vous."
-          ]
+          "speech": "Il est vrai qu\u0027il est difficile de rebondir quand on a l\u0027impression que la terre s\u0027écroule sous ses pieds. Otez-vous vite toutes ces idées noires de la tête, et surtout cessez de vous dévaloriser car cela ne fait qu\u0027accentuer votre démotivation.\n\nQue faire concrètement ? Premièrement, il est important de ne pas se laisser aller sous prétexte de ne plus travailler. Continuez à vous lever de bonne heure le matin et à suivre le même rythme que quelqu\u0027un qui travaille. Vous verrez que vous serez plus motivé que si vous passez toute la matinée au lit. Ne restez pas seul chez vous à vous ressasser votre situation :\n\nsortez\nrencontrez des amis\nprofitez de votre temps libre pour mettre au point votre plan d\u0027attaque.\n\nCar le meilleur moyen pour affronter cette période c\u0027est de vous projeter dans l\u0027avenir, et donc de vous mettre très vite à rechercher un nouvel emploi. Ce n\u0027est pas une mince affaire et vous allez devoir vous acharner tous les jours malgré les réponses négatives que vous recevrez. C\u0027est pourquoi, le plus important est de garder le moral, de rester déterminé et d\u0027avoir confiance en vous et en vos qualités. Il est important de lister tous vos points forts. Rassemblez vos efforts et organisez-vous. \n\nVous verrez qu\u0027en reprenant confiance en vous, vous braverez tous les obstacles, du moins les principaux, et ne resterez pas longtemps dans la case \"chômage\". Ne craignez pas systématiquement l\u0027échec, qui permet parfois de mieux rebondir. Vous êtes parfaitement capable de réussir, mais pour cela il faut y croire."
         },
         {
           "type": 0,

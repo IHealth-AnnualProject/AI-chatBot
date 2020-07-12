@@ -1,52 +1,155 @@
 [
   {
-    "id": "f44f4d0d-e13b-44fb-9691-33e1630faa8c",
+    "id": "0c9ec370-400a-4ac9-b241-c342d1a01847",
     "data": [
       {
-        "text": "chomage",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "f95f62a4-cf5a-4784-afaf-a689be11d44d",
-    "data": [
-      {
-        "text": "fait virer",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "13b25202-6efd-445a-997e-16a876dc7854",
-    "data": [
-      {
-        "text": "travail",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
-    "id": "956dd809-daa7-4d81-94df-c45055e79b5b",
-    "data": [
-      {
-        "text": "perdu",
-        "alias": "negative_qualifier",
-        "meta": "@negative_qualifier",
+        "text": "J\u0027ai ",
         "userDefined": false
       },
       {
-        "text": " le travail",
+        "text": "été",
+        "meta": "@sys.ignore",
         "userDefined": false
+      },
+      {
+        "text": " licencié",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cd0019a-1dca-4591-9465-8f2e7dff06a6",
+    "data": [
+      {
+        "text": "J\u0027ai perdu mon emploi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5aa6ecbd-9e44-4f4c-be7b-33a28092df0c",
+    "data": [
+      {
+        "text": "Mon entreprise",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a fermé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31e70fd7-064d-4223-bbbb-b274e070918b",
+    "data": [
+      {
+        "text": "L\u0027entreprise",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pour laquelle je travaillais vient de faire faillite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1254ef8d-e5b0-44b3-9871-7f91f2770144",
+    "data": [
+      {
+        "text": "La boîte",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pour laquelle je travaillais a fait faillite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86cd68de-b482-4c57-9a64-2112cc3d3d29",
+    "data": [
+      {
+        "text": "J\u0027ai été débauché",
+        "alias": "perte_travail",
+        "meta": "@perte_travail",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c25e14b9-2fd5-48d0-b79f-4b14658b323d",
+    "data": [
+      {
+        "text": "Je me suis fait virer",
+        "alias": "perte_travail",
+        "meta": "@perte_travail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fc87bae-1d7c-4b09-a843-db8961739eb5",
+    "data": [
+      {
+        "text": "J\u0027ai ",
+        "userDefined": false
+      },
+      {
+        "text": "perdu mon travail",
+        "alias": "perte_travail",
+        "meta": "@perte_travail",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c16acaae-8956-477c-8984-aab66f8971eb",
+    "data": [
+      {
+        "text": "Je suis ",
+        "userDefined": false
+      },
+      {
+        "text": "maintenant",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "au chomage",
+        "alias": "perte_travail",
+        "meta": "@perte_travail",
+        "userDefined": true
       }
     ],
     "isTemplate": false,

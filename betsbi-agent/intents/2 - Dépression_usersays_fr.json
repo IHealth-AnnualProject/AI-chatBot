@@ -1,5 +1,47 @@
 [
   {
+    "id": "8f11d25e-6309-43c1-9973-46307f52b912",
+    "data": [
+      {
+        "text": "Bof bof",
+        "alias": "average_qualifier",
+        "meta": "@average_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5af9b0d8-c82e-4f75-be74-94cb1b6727a0",
+    "data": [
+      {
+        "text": "Ça va moyen",
+        "alias": "average_qualifier",
+        "meta": "@average_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10015307-675c-4151-842f-9fe7b49fb136",
+    "data": [
+      {
+        "text": "Moyen",
+        "alias": "average_qualifier",
+        "meta": "@average_qualifier",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "22b7f072-dc51-4ff0-964a-f835e9f5e6b1",
     "data": [
       {
